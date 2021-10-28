@@ -1,0 +1,426 @@
+#EXTM3U
+
+#OGOLNE
+
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="tvp1hd.png" group-title="OGOLNE",TVP 1 HD
+http://31.178.61.52:8001/1:0:1:3ABD:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="tvp2hd.png" group-title="OGOLNE",TVP 2 HD
+http://31.178.61.52:8001/1:0:1:C22:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="polsathd.png" group-title="OGOLNE",Polsat HD
+http://31.178.61.52:8001/1:0:1:33A1:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat 2" tvg-logo="polsat2hd.png" group-title="OGOLNE",Polsat 2 HD
+http://31.178.61.52:8001/1:0:1:339A:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN" tvg-logo="tvnhd.png" group-title="OGOLNE",TVN HD
+http://31.178.61.52:8001/1:0:1:3DCD:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN 7" tvg-logo="tvn7hd.png" group-title="OGOLNE",TVN 7 HD
+http://31.178.61.52:8001/1:0:1:3DD3:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TTV" tvg-logo="tv4hd-lichoridas.png" group-title="OGOLNE",TTV HD
+http://31.178.61.52:8001/1:0:1:3DD7:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="tv4hd-lichoridas.png" group-title="OGOLNE",TV 4 HD
+http://31.178.61.52:8001/1:0:1:3393:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TV 6" tvg-logo="tv6-lichoridas.png" group-title="OGOLNE",TV 6
+http://31.178.61.52:8001/1:0:1:4292:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TV Puls" tvg-logo="tvpulshd.png" group-title="OGOLNE",TV Puls HD
+http://31.178.61.52:8001/1:0:1:3D66:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="PULS 2" tvg-logo="puls2.png" group-title="OGOLNE",Puls 2
+http://31.178.61.52:8001/1:0:16:10E3:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TBN Polska" tvg-logo="tbnpolska.png" group-title="OGOLNE",TBN Polska
+http://31.178.61.52:8001/1:0:1:35EF:1388:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC" tvg-logo="bbchd.png" group-title="OGOLNE",BBC HD
+http://31.178.61.52:8001/1:0:19:DD4:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC Brit" tvg-logo="bbcbrit.png" group-title="OGOLNE",BBC Brit HD
+http://31.178.61.52:8001/1:0:19:7D6:22C4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Super Polsat" tvg-logo="superpolsathd.png" group-title="OGOLNE",Super Polsat
+http://31.178.61.52:8001/1:0:1:339B:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-logo="tvprozrywka.png" group-title="OGOLNE",TVP Rozrywka
+http://31.178.61.52:8001/1:0:1:4288:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Nowa TV" tvg-logo="nowatv.png" group-title="OGOLNE",Nowa TV
+http://31.178.61.52:8001/1:0:16:10E5:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="METRO" tvg-logo="metrotv.png" group-title="OGOLNE",Metro
+http://31.178.61.52:8001/1:0:1:4287:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="WP1" tvg-logo="wp1.png" group-title="OGOLNE",WP
+http://31.178.61.52:8001/1:0:16:3D5A:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-logo="zoomtv.png" group-title="OGOLNE",ZOOM TV
+http://31.178.61.52:8001/1:0:1:4291:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polonia 1" tvg-logo="polonia1.png" group-title="OGOLNE",Polonia 1
+http://31.178.61.52:8001/1:0:1:423C:3DB8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Tele 5" tvg-logo="tele5-lichoridas.png" group-title="OGOLNE",Tele 5
+http://31.178.61.52:8001/1:0:1:423B:3DB8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVS" tvg-logo="tvsilesia.png" group-title="OGOLNE",TVS
+http://31.178.61.52:8001/1:0:1:3D58:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-logo="tvppolonia.png" group-title="OGOLNE",TVP Polonia
+http://31.178.61.52:8001/1:0:1:132B:33F4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="ATM Rozrywka" tvg-logo="atmrozrywka.png" group-title="OGOLNE",ATM Rozrywka
+http://31.178.61.52:8001/1:0:1:1CBA:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="NTL Radomsko" tvg-logo="ntl.png" group-title="OGOLNE",NTL Radomsko
+http://31.178.61.52:8001/1:0:16:10E4:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="tvo" tvg-logo="tvo.png" group-title="OGOLNE",tvo
+http://31.178.61.52:8001/1:0:1:1C8D:1CE8:71:820000:0:0:0
+
+#BAJKI
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="babytv.png" group-title="BAJKI",Baby TV
+http://31.178.61.52:8001/1:0:1:579:2DB4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="boomerang.png" group-title="BAJKI",Boomerang
+http://31.178.61.52:8001/1:0:16:1CB8:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC CBeebies" tvg-logo="cbeebies.png" group-title="BAJKI",BBC CBeebies
+http://31.178.61.52:8001/1:0:1:7D9:22C4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="cartoonnetworkhd.png" group-title="BAJKI",Cartoon Network HD
+http://31.178.61.52:8001/1:0:1:2906:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="disneychannelhd.png" group-title="BAJKI",Disney Channel HD
+http://31.178.61.52:8001/1:0:1:1CB6:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="disneyjunior.png" group-title="BAJKI",Disney Junior
+http://31.178.61.52:8001/1:0:16:2938:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="disneyxd.png" group-title="BAJKI",Disney XD
+http://31.178.61.52:8001/1:0:16:1CB5:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="JimJam Polsat" tvg-logo="jimjampolsat.png" group-title="BAJKI",JimJam Polsat
+http://31.178.61.52:8001/1:0:1:1CB7:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="MiniMini+" tvg-logo="miniminiplushd.png" group-title="BAJKI",MiniMini+ HD
+http://31.178.61.52:8001/1:0:19:32FE:190:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="nickelodeonhd.png" group-title="BAJKI",Nickelodeon HD
+http://31.178.61.52:8001/1:0:1:E:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="nickjr.png" group-title="BAJKI",Nick Jr
+http://31.178.61.52:8001/1:0:1:6:3200:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Nicktoons HD" tvg-logo="nicktoonshd.png" group-title="BAJKI",Nicktoons HD
+http://31.178.61.52:8001/1:0:1:E:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Teletoon" tvg-logo="teletoonplushd-lichoridas.png" group-title="BAJKI",Teletoon+ HD
+http://31.178.61.52:8001/1:0:19:377D:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP ABC" tvg-logo="tvpabc.png" group-title="BAJKI",TVP ABC
+http://31.178.61.52:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0
+
+#INFORMACYJNE
+
+#EXTINF:-1 tvg-id="TVP Info" tvg-logo="tvpinfohd.png" group-title="INFORMACYJNE",TVP Info HD
+http://31.178.61.52:8001/1:0:1:1139:2AF8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN 24" tvg-logo="tvn24hd.png" group-title="INFORMACYJNE",TVN 24 HD
+http://31.178.61.52:8001/1:0:1:3DD2:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-logo="tvn24bis.png" group-title="INFORMACYJNE",TVN 24 Biznes i Swiat HD
+http://31.178.61.52:8001/1:0:19:10EA:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat News" tvg-logo="polsatnewshd.png" group-title="INFORMACYJNE",Polsat News HD
+http://31.178.61.52:8001/1:0:1:3399:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="polsatnews2.png" group-title="INFORMACYJNE",Polsat News 2
+http://31.178.61.52:8001/1:0:16:3333:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Superstacja" tvg-logo="superstacja.png" group-title="INFORMACYJNE",Superstacja
+http://31.178.61.52:8001/1:0:16:1CBE:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Republika TV" tvg-logo="tvrepublika.png" group-title="INFORMACYJNE",TV Republika
+http://31.178.61.52:8001/1:0:1:4289:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-logo="wpolscepl.png" group-title="INFORMACYJNE",wPolsce.pl
+http://31.178.61.52:8001/1:0:1:4279:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Warszawa" tvg-logo="tvp3warszawa.png" group-title="INFORMACYJNE",TVP 3 Warszawa
+http://31.178.61.52:8001/1:0:1:113B:2AF8:13E:820000:0:0:0
+
+#FILMOWE
+
+#EXTINF:-1 tvg-id="13 Ulica" tvg-logo="13ulica.png" group-title="FILMOWE",13 Ulica HD
+http://31.178.61.52:8001/1:0:1:3E26:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Ale kino+" tvg-logo="alekinoplushd.png" group-title="FILMOWE",Ale kino+ HD
+http://31.178.61.52:8001/1:0:19:3781:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="AMC" tvg-logo="amchd.png" group-title="FILMOWE",AMC HD
+http://31.178.61.52:8001/1:0:1:3AB7:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="AXN" tvg-logo="axnhd.png" group-title="FILMOWE",AXN HD
+http://31.178.61.52:8001/1:0:1:C25:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="AXN Black" tvg-logo="axnblack.png" group-title="FILMOWE",AXN Black
+http://31.178.61.52:8001/1:0:1:1C87:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="AXN Spin" tvg-logo="axnspinhd.png" group-title="FILMOWE",AXN Spin HD
+http://31.178.61.52:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="AXN White" tvg-logo="axnwhite.png" group-title="FILMOWE",AXN White
+http://31.178.61.52:8001/1:0:1:1C86:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+" tvg-logo="canalplushd-lichoridas.png" group-title="FILMOWE",Canal+ HD
+http://31.178.61.52:8001/1:0:1:32DC:190:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+1" tvg-logo="canalplus1hd-lichoridas.png" group-title="FILMOWE",Canal+1 HD
+http://31.178.61.52:8001/1:0:1:13ED:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Film" tvg-logo="canalplusfilmhd-lichoridas.png" group-title="FILMOWE",Canal+ Film HD
+http://31.178.61.52:8001/1:0:1:3779:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Family" tvg-logo="canalplusfamilyhd-lichoridas.png" group-title="FILMOWE",Canal+ Family HD
+http://31.178.61.52:8001/1:0:19:377B:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Seriale" tvg-logo="canalplusserialehd-lichoridas.png" group-title="FILMOWE",Canal+ Seriale HD
+http://31.178.61.52:8001/1:0:19:3782:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="cinemaxhd.png" group-title="FILMOWE",Cinemax HD
+http://31.178.61.52:8001/1:0:1:1136:2AF8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-logo="cinemax2hd.png" group-title="FILMOWE",Cinemax 2 HD
+http://31.178.61.52:8001/1:0:1:C26:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="comedycentralhd.png" group-title="FILMOWE",Comedy Central HD
+http://31.178.61.52:8001/1:0:1:C:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Comedy Central Family" tvg-logo="comedycentralfamilyhd.png" group-title="FILMOWE",Comedy Central Family HD
+http://31.178.61.52:8001/1:0:1:10:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CBS Action" tvg-logo="cbsaction.png" group-title="FILMOWE",CBS Action
+http://31.178.61.52:8001/1:0:1:4282:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CBS Europa" tvg-logo="cbseuropa.png" group-title="FILMOWE",CBS Europa HD
+http://31.178.61.52:8001/1:0:1:290B:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-logo="cbsreality.png" group-title="FILMOWE",CBS Reality
+http://31.178.61.52:8001/1:0:1:3D5B:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Epic Drama" tvg-logo="epicdrama.png" group-title="FILMOWE",Epic Drama
+http://31.178.61.52:8001/1:0:1:4290:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Filmbox" tvg-logo="filmbox.png" group-title="FILMOWE",Filmbox
+http://31.178.61.52:8001/1:0:1:3D61:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="filmboxaction.png" group-title="FILMOWE",Filmbox Action
+http://31.178.61.52:8001/1:0:1:3D65:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FilmBox ArtHouse" tvg-logo="filmboxarthouse.png" group-title="FILMOWE",Filmbox Arthouse
+http://31.178.61.52:8001/1:0:1:428A:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-logo="filmboxextrahd.png" group-title="FILMOWE",Filmbox Extra HD
+http://31.178.61.52:8001/1:0:1:3D68:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-logo="filmboxfamily.png" group-title="FILMOWE",Filmbox Family
+http://31.178.61.52:8001/1:0:1:3D62:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-logo="filmboxpremium.png" group-title="FILMOWE",Filmbox Premium
+http://31.178.61.52:8001/1:0:1:3D60:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FOX" tvg-logo="foxhd.png" group-title="FILMOWE",Fox HD
+http://31.178.61.52:8001/1:0:1:C27:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="FOX Comedy" tvg-logo="foxcomedyhd.png" group-title="FILMOWE",Fox Comedy HD
+http://31.178.61.52:8001/1:0:1:C1F:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="HBO" tvg-logo="hbohd.png" group-title="FILMOWE",HBO HD
+http://31.178.61.52:8001/1:0:19:290E:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2hd.png" group-title="FILMOWE",HBO2 HD
+http://31.178.61.52:8001/1:0:19:DD7:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="HBO3" tvg-logo="hbo3hd.png" group-title="FILMOWE",HBO3 HD
+http://31.178.61.52:8001/1:0:19:DD8:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Crime" tvg-logo="polsatcrimeandinvestigation.png" group-title="FILMOWE",CI POLSAT
+http://31.178.61.52:8001/1:0:1:1C9C:332C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="ID" tvg-logo="investigationdiscoveryhd.png" group-title="FILMOWE",ID HD
+http://31.178.61.52:8001/1:0:19:3A9B:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Kino Polska" tvg-logo="kinopolska.png" group-title="FILMOWE",Kino Polska
+http://31.178.61.52:8001/1:0:1:1135:2AF8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Novela tv" tvg-logo="novelatv.png" group-title="FILMOWE",Novela TV
+http://31.178.61.52:8001/1:0:16:4240:3DB8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="paramountchannelhd.png" group-title="FILMOWE",Paramount Channel HD
+http://31.178.61.52:8001/1:0:1:D:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Film" tvg-logo="polsatfilmhd.png" group-title="FILMOWE",Polsat Film HD
+http://31.178.61.52:8001/1:0:1:3398:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="POLSAT Romans" tvg-logo="polsatromans.png" group-title="FILMOWE",Polsat Romans
+http://31.178.61.52:8001/1:0:1:1C85:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Romance TV" tvg-logo="romancetvhd-wispelutri.png" group-title="FILMOWE",Romance TV HD
+http://31.178.61.52:8001/1:0:1:3ABE:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Scifi" tvg-logo="scifihd.png" group-title="FILMOWE",Scifi HD
+http://31.178.61.52:8001/1:0:1:3E20:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-logo="stopklatkatv.png" group-title="FILMOWE",Stopklatka TV
+http://31.178.61.52:8001/1:0:1:427B:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Sundance Channel" tvg-logo="sundancetvhd.png" group-title="FILMOWE",Sundance HD
+http://31.178.61.52:8001/1:0:1:3E1D:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN Fabula" tvg-logo="tvnfabulahd.png" group-title="FILMOWE",TVN Fabuła HD
+http://31.178.61.52:8001/1:0:1:3DD6:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TNT" tvg-logo="tnthd.png" group-title="FILMOWE",TNT HD
+http://31.178.61.52:8001/1:0:1:2905:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP HD" tvg-logo="tvphd.png" group-title="FILMOWE",TVP HD
+http://31.178.61.52:8001/1:0:1:1138:2AF8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-logo="tvpseriale.png" group-title="FILMOWE",TVP Seriale
+http://31.178.61.52:8001/1:0:1:3D5C:2C88:13E:820000:0:0:0
+
+#LIFESTYLE
+
+#EXTINF:-1 tvg-id="Active Family" tvg-logo="activefamily.png" group-title="LIFESTYLE",Active Family
+http://31.178.61.52:8001/1:0:1:db7:2d50:13e:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="bbclifestyle.png" group-title="LIFESTYLE",BBC Lifestyle HD
+http://31.178.61.52:8001/1:0:1:7DB:22C4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Domo+" tvg-logo="domoplushd.png" group-title="LIFESTYLE",Domo+ HD
+http://31.178.61.52:8001/1:0:1:13EF:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="hgtv.png" group-title="LIFESTYLE",HGTV HD
+http://31.178.61.52:8001/1:0:19:10EB:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="eentertainment.png" group-title="LIFESTYLE",E! Entertainment
+http://31.178.61.52:8001/1:0:1:3E1E:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Food Network" tvg-logo="foodnetworkhd.png" group-title="LIFESTYLE",Food Network HD
+http://31.178.61.52:8001/1:0:19:3DD9:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Kuchnia+" tvg-logo="kuchniaplushd.png" group-title="LIFESTYLE",Kuchnia+ HD
+http://31.178.61.52:8001/1:0:19:377F:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="lifetimehd.png" group-title="LIFESTYLE",Lifetime HD
+http://31.178.61.52:8001/1:0:1:3E27:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Mango 24" tvg-logo="mango24.png" group-title="LIFESTYLE",Mango 24
+http://31.178.61.52:8001/1:0:1:10DC:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TLC" tvg-logo="tlchd.png" group-title="LIFESTYLE",TLC HD
+http://31.178.61.52:8001/1:0:1:3E21:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="polsatcafehd.png" group-title="LIFESTYLE",Polsat Cafe HD
+http://31.178.61.52:8001/1:0:1:3396:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Play" tvg-logo="polsatplayhd.png" group-title="LIFESTYLE",Polsat Play HD
+http://31.178.61.52:8001/1:0:1:3392:3390:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN Style" tvg-logo="tvnstylehd.png" group-title="LIFESTYLE",TVN Style HD
+http://31.178.61.52:8001/1:0:1:3DCE:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Wellbeing Network" tvg-logo="wellbeingnetwork.png" group-title="LIFESTYLE",Wellbeing Network HD
+http://31.178.61.52:8001/1:0:1:4277:2BC0:13E:820000:0:0:0
+
+#POPULARNONAUKOWE
+
+#EXTINF:-1 tvg-id="Adventure HD" tvg-logo="adventurehd.png" group-title="POPULARNONAUKOWE",Adventure HD
+http://31.178.61.52:8001/1:0:19:10E9:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="animalplanethd.png" group-title="POPULARNONAUKOWE",Animal Planet HD
+http://31.178.61.52:8001/1:0:1:12C6:2E7C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="bbcearth.png" group-title="POPULARNONAUKOWE",BBC Earth HD
+http://31.178.61.52:8001/1:0:19:E08:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="BBC First" tvg-logo="bbcfirst.png" group-title="POPULARNONAUKOWE",BBC First HD
+http://31.178.61.52:8001/1:0:1:DD4:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="davincilearning.png" group-title="POPULARNONAUKOWE",Da Vinci Learning
+http://31.178.61.52:8001/1:0:1:4280:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Discovery" tvg-logo="canalplusdiscoveryhd.jpg" group-title="POPULARNONAUKOWE",Canal+ Discovery HD
+http://31.178.61.52:8001/1:0:1:3A99:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="discoverychannelhd.png" group-title="POPULARNONAUKOWE",Discovery Channel HD
+http://31.178.61.52:8001/1:0:19:3AB8:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-logo="discoveryhistoria.png" group-title="POPULARNONAUKOWE",Discovery Historia
+http://31.178.61.52:8001/1:0:16:DB2:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Discovery Life" tvg-logo="discoverylife-lichoridas.png" group-title="POPULARNONAUKOWE",Discovery Life HD
+http://31.178.61.52:8001/1:0:16:3D56:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="discoverylife-lichoridas.png" group-title="POPULARNONAUKOWE",CrimeInvestigation
+http://31.178.61.52:8001/1:0:1:C30:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="discoverylife-lichoridas.png" group-title="POPULARNONAUKOWE",Investigation Discovery
+http://31.178.61.52:8001/1:0:1:3A9B:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="discoverysciencehd-clivebesle.png" group-title="POPULARNONAUKOWE",Discovery Science HD
+http://31.178.61.52:8001/1:0:19:290D:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Discovery Turbo Xtra" tvg-logo="discoveryturboxtrahd.png" group-title="POPULARNONAUKOWE",Discovery Turbo Xtra HD
+http://31.178.61.52:8001/1:0:19:3A9C:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Fokus TV" tvg-logo="fokustv.png" group-title="POPULARNONAUKOWE",Fokus TV
+http://31.178.61.52:8001/1:0:1:10E1:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="historyhd.png" group-title="POPULARNONAUKOWE",History HD
+http://31.178.61.52:8001/1:0:1:C2F:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="H2" tvg-logo="history2hd.png" group-title="POPULARNONAUKOWE",H2 HD
+http://31.178.61.52:8001/1:0:1:3E22:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-logo="nationalgeographichd.png" group-title="POPULARNONAUKOWE",National Geographic Channel HD
+http://31.178.61.52:8001/1:0:19:32DF:190:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-logo="natgeopeoplehd.png" group-title="POPULARNONAUKOWE",Nat Geo People HD
+http://31.178.61.52:8001/1:0:19:2907:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="natgeowildhd.png" group-title="POPULARNONAUKOWE",Nat Geo Wild HD
+http://31.178.61.52:8001/1:0:1:1137:2AF8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="POLSAT Doku HD" tvg-logo="polsatdoku.png" group-title="POPULARNONAUKOWE",Polsat Doku HD
+http://31.178.61.52:8001/1:0:1:C23:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-logo="polsatviasatexplorehd.png" group-title="POPULARNONAUKOWE",Polsat Viasat Explore HD
+http://31.178.61.52:8001/1:0:1:1CCA:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="POLSAT Viasat History" tvg-logo="polsatviasathistoryhd.png" group-title="POPULARNONAUKOWE",Polsat Viasat History HD
+http://31.178.61.52:8001/1:0:1:C20:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="POLSAT Viasat Nature" tvg-logo="polsatviasatnaturehd.png" group-title="POPULARNONAUKOWE",Polsat Viasat Nature HD
+http://31.178.61.52:8001/1:0:1:1CCD:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="planeteplushd.png" group-title="POPULARNONAUKOWE",Planete+ HD
+http://31.178.61.52:8001/1:0:19:377E:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="travelchannelhd.png" group-title="POPULARNONAUKOWE",Travel Channel HD
+http://31.178.61.52:8001/1:0:19:3DD8:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Historia" tvg-logo="tvphistoria.png" group-title="POPULARNONAUKOWE",TVP Historia
+http://31.178.61.52:8001/1:0:1:3D67:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-logo="tvpkultura.png" group-title="POPULARNONAUKOWE",TVP Kultura
+http://31.178.61.52:8001/1:0:1:3D59:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Water Planet" tvg-logo="waterplanet.png" group-title="POPULARNONAUKOWE",Water Planet
+http://31.178.61.52:8001/1:0:16:423E:3DB8:13E:820000:0:0:0
+
+#MUZYCZNE
+
+#EXTINF:-1 tvg-id="4fun TV" tvg-logo="4funtv.png" group-title="MUZYCZNE",4Fun TV
+http://31.178.61.52:8001/1:0:1:428D:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="4fun Fit%Dance" tvg-logo="13ulicahd.png" group-title="MUZYCZNE",4Fun Fit and Dance
+http://31.178.61.52:8001/1:0:1:428F:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="4FUN HITS" tvg-logo="4funhits.png" group-title="MUZYCZNE",4FUN HITS
+http://31.178.61.52:8001/1:0:1:428E:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Disco Polo Music" tvg-logo="discopolomusic.png" group-title="MUZYCZNE",Disco Polo Music
+http://31.178.61.52:8001/1:0:1:1C8C:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Eska TV" tvg-logo="eskatv.png" group-title="MUZYCZNE",Eska TV
+http://31.178.61.52:8001/1:0:1:10DB:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eska TV Extra" tvg-logo="eskatvextra.png" group-title="MUZYCZNE",Eska TV Extra
+http://31.178.61.52:8001/1:0:1:10e6:3e8:13e:820000:0:0:0
+#EXTINF:-1 tvg-id="Eska ROCK TV" tvg-logo="eskatvrock.png" group-title="MUZYCZNE",Eska ROCK TV
+http://31.178.61.52:8001/1:0:1:3D63:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Hip Hop TV" tvg-logo="hiphoptv.png" group-title="MUZYCZNE",HIP HOP TV
+http://31.178.61.52:8001/1:0:1:3D63:2C88:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-logo="kinopolskamuzyka.png" group-title="MUZYCZNE",Kino Polska Muzyka
+http://31.178.61.52:8001/1:0:1:DAE:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="MTV Polska" tvg-logo="mtv.png" group-title="MUZYCZNE",MTV Polska
+http://31.178.61.52:8001/1:0:1:F:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="mtvlivehd.png" group-title="MUZYCZNE",MTV Live HD
+http://31.178.61.52:8001/1:0:19:1:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="mtvrocks.png" MTV Rocks" group-title="MUZYCZNE",MTV Rocks
+http://31.178.61.52:8001/1:0:1:1CB9:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="NUTA TV" tvg-logo="nutatv.png" group-title="MUZYCZNE",NUTA TV
+http://31.178.61.52:8001/1:0:1:10DD:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polo TV" tvg-logo="polotv.png" group-title="MUZYCZNE",Polo TV
+http://31.178.61.52:8001/1:0:1:10DA:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Music" tvg-logo="polsatmusic.png" group-title="MUZYCZNE",Polsat Music HD
+http://31.178.61.52:8001/1:0:1:4293:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Power TV" tvg-logo="powertv-lichoridas.png" group-title="MUZYCZNE",POWER TV
+http://31.178.61.52:8001/1:0:16:10E7:3E8:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Stars TV" tvg-logo="starstv.png" group-title="MUZYCZNE",Stars TV
+http://31.178.61.52:8001/1:0:1:427F:2BC0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TO!TV" tvg-logo="totv.png" group-title="MUZYCZNE",TO!TV
+http://31.178.61.52:8001/1:0:1:10e8:3e8:13e:820000:0:0:0
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="traceurban.png" group-title="MUZYCZNE",TRACE Urban
+http://31.178.61.52:8001/1:0:1:DB6:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="VH1 European" tvg-logo="vh1.png" group-title="MUZYCZNE",VH1
+http://31.178.61.52:8001/1:0:1:8:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="VOX MUSIC TV" tvg-logo="voxmusictv.png" group-title="MUZYCZNE",VOX Music TV
+http://31.178.61.52:8001/1:0:1:3D57:2C88:13E:820000:0:0:0
+
+#SPORTOWE
+
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="elevensports1.png" group-title="SPORTOWE",Eleven Sports 1 HD
+http://31.178.61.52:8001/1:0:1:13F3:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="elevensports2.png" group-title="SPORTOWE",Eleven Sports 2 HD
+http://31.178.61.52:8001/1:0:1:13F5:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="elevensports3.png" group-title="SPORTOWE",Eleven Sports 3 HD
+http://31.178.61.52:8001/1:0:1:13F8:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-logo="elevensports4.png" group-title="SPORTOWE",Eleven Sports 4 HD
+http://31.178.61.52:8001/1:0:1:32ce:190:13e:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Sport" tvg-logo="canal+sporthd.png" group-title="SPORTOWE",Canal+ Sport HD
+http://31.178.61.52:8001/1:0:1:32DE:190:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Sport 2" tvg-logo="canalplussport2hd-lichoridas.png" group-title="SPORTOWE",Canal+ Sport 2 HD
+http://31.178.61.52:8001/1:0:1:13EE:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Sport 3" tvg-logo="canalplussport3hd-lichoridas.png" group-title="SPORTOWE",Canal+ Sport 3 HD
+http://31.178.61.52:8001/1:0:1:12C2:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="CANAL+ Sport 4" tvg-logo="canalplussport4hd-lichoridas.png" group-title="SPORTOWE",Canal+ Sport 4 HD
+http://31.178.61.52:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="nSport" tvg-logo="nsportplushd.png" group-title="SPORTOWE",nSport HD
+http://31.178.61.52:8001/1:0:1:3AB9:514:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="CANAL+ Now" tvg-logo="canal+now4k.png" group-title="SPORTOWE",CANAL+ Now 4K
+http://31.178.61.52:8001/1:0:1:113D:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="eurosport1hd.png" group-title="SPORTOWE",Eurosport HD
+http://31.178.61.52:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="eurosport2hd.png" group-title="SPORTOWE",Eurosport 2 HD
+http://31.178.61.52:8001/1:0:1:290C:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Eurosport 3" tvg-logo="eurosport3hd.png" group-title="SPORTOWE",Eurosport 3 HD
+http://31.178.61.52:8001/1:0:19:3780:44C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eurosport 4" tvg-logo="eurosport4hd.png" group-title="SPORTOWE",Eurosport 4 HD
+http://31.178.61.52:8001/1:0:1:32E1:190:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Eurosport 5" tvg-logo="eurosport5hd.png" group-title="SPORTOWE",Eurosport 5 HD
+http://31.178.61.52:8001/1:0:1:DB0:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="TVP Sport" tvg-logo="tvpsporthd.png" group-title="SPORTOWE",TVP Sport HD
+http://31.178.61.52:8001/1:0:19:DB1:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="polsatsporthd.png" group-title="SPORTOWE",Polsat Sport HD
+http://31.178.61.52:8001/1:0:1:C1D:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-logo="polsatsportextrahd.png" group-title="SPORTOWE",Polsat Sport Extra HD
+http://31.178.61.52:8001/1:0:1:C24:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="polsatsportfighthd.png" group-title="SPORTOWE",Polsat Sport Fight HD
+http://31.178.61.52:8001/1:0:16:2911:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-logo="polsatsportnews.png" group-title="SPORTOWE",Polsat Sport News HD
+http://31.178.61.52:8001/1:0:1:2913:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-logo="tvnturbohd.png" group-title="SPORTOWE",TVN Turbo HD
+http://31.178.61.52:8001/1:0:1:3DD0:640:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-logo="fightklubhd.png" group-title="SPORTOWE",Fight Klub HD
+http://31.178.61.52:8001/1:0:1:13F1:5DC:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="FightBox" tvg-logo="fightboxhd.png" group-title="SPORTOWE",Fightbox HD
+http://31.178.61.52:8001/1:0:1:3E24:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Extreme" tvg-logo="extremesportshd.png" group-title="SPORTOWE",Extreme Sports HD
+http://31.178.61.52:8001/1:0:19:290A:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Sportklub" tvg-logo="sportklub.png" group-title="SPORTOWE",Sport Klub
+http://31.178.61.52:8001/1:0:1:DAF:2D50:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Motowizja HD" tvg-logo="motowizjahd.png" group-title="SPORTOWE",Motowizja HD
+http://31.178.61.52:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="golfchannel.png" group-title="SPORTOWE",Golf Channel Polska
+http://31.178.61.52:8001/1:0:1:3E23:2EE0:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="Tenis Premium 1" tvg-logo="tenispremium1.png" group-title="SPORTOWE",Tenis Premium 1
+http://31.178.61.52:8001/1:0:1:2908:1EDC:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Tenis Premium 2" tvg-logo="tenispremium2.png" group-title="SPORTOWE",Tenis Premium 2
+http://31.178.61.52:8001/1:0:1:C30:1E78:71:820000:0:0:0
+#EXTINF:-1 tvg-id="PolsatSportPremium1" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium1
+http://31.178.61.52:8001/1:0:1:709:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="PolsatSportPremium2" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium2
+http://31.178.61.52:8001/1:0:1:70A:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="PolsatSportPremium3" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium3
+http://31.178.61.52:8001/1:0:1:70B:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="PolsatSportPremium4" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium4
+http://31.178.61.52:8001/1:0:1:70C:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="PolsatSportPremium5" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium5
+http://31.178.61.52:8001/1:0:1:70D:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="PolsatSportPremium6" tvg-logo="tenispremium2.png" group-title="SPORTOWE",PolsatSportPremium6
+http://31.178.61.52:8001/1:0:1:70E:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Canal Plus Sport 3" tvg-logo="tenispremium2.png" group-title="SPORTOWE",Canal Plus Sport 3
+http://31.178.61.52:8001/1:0:1:12C2:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="Canal Plus Sport 4" tvg-logo="tenispremium2.png" group-title="SPORTOWE",Canal Plus Sport 4
+http://31.178.61.52:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0:
+
+
+#ZAGRANICZNE
+
+#EXTINF:-1 tvg-id="ZDF" tvg-logo="zdf.png" group-title="ZAGRANICZNE",ZDF
+http://31.178.61.52:8001/1:0:1:1F4B:319C:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="ARTE HD" tvg-logo="artehd.png" group-title="ZAGRANICZNE",ARTE HD
+http://31.178.61.52:8001/1:0:1:133:3E1C:13F:820000:0:0:0
+
