@@ -227,7 +227,7 @@ http://31.178.61.52:8001/1:0:1:10DC:3E8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TLC" tvg-logo="tlchd.png" group-title="LIFESTYLE",TLC HD
 http://31.178.61.52:8001/1:0:1:3E21:2EE0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="polsatcafehd.png" group-title="LIFESTYLE",Polsat Cafe HD
-http://31.178.61.52:8001/1:0:1:3396:3390:71:820000:0:0:0
+http://84.10.204.24:8001/1:0:1:3396:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="Polsat Play" tvg-logo="polsatplayhd.png" group-title="LIFESTYLE",Polsat Play HD
 http://31.178.61.52:8001/1:0:1:3392:3390:71:820000:0:0:0
 #EXTINF:-1 tvg-id="TVN Style" tvg-logo="tvnstylehd.png" group-title="LIFESTYLE",TVN Style HD
