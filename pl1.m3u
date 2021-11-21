@@ -240,7 +240,7 @@ http://31.179.233.213:8001/1:0:1:4277:2BC0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Adventure HD" tvg-logo="adventurehd.png" group-title="POPULARNONAUKOWE",Adventure HD
 http://31.179.233.213:8001/1:0:19:10E9:3E8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="animalplanethd.png" group-title="POPULARNONAUKOWE",Animal Planet HD
-http://31.179.233.213:8001/1:0:1:12C6:2E7C:13E:820000:0:0:0
+http://31.179.233.213:8001/1:0:1:DB0:2D50:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="bbcearth.png" group-title="POPULARNONAUKOWE",BBC Earth HD
 http://31.179.233.213:8001/1:0:19:E08:2D50:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="BBC First" tvg-logo="bbcfirst.png" group-title="POPULARNONAUKOWE",BBC First HD
@@ -304,6 +304,8 @@ http://31.179.233.213:8001/1:0:1:428F:2BC0:13E:820000:0:0:0
 http://31.179.233.213:8001/1:0:1:428E:2BC0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Disco Polo Music" tvg-logo="discopolomusic.png" group-title="MUZYCZNE",Disco Polo Music
 http://31.179.233.213:8001/1:0:1:1C8C:1CE8:71:820000:0:0:0
+#EXTINF:-1 tvg-id="Power TV" tvg-logo="powertv.png" group-title="MUZYCZNE",Power TV
+http://31.179.233.213:8001/1:0:1:12C6:2E7C:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="eskatv.png" group-title="MUZYCZNE",Eska TV
 http://31.179.233.213:8001/1:0:1:10DB:3E8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Eska TV Extra" tvg-logo="eskatvextra.png" group-title="MUZYCZNE",Eska TV Extra
@@ -369,8 +371,6 @@ http://31.179.233.213:8001/1:0:1:290C:1EDC:71:820000:0:0:0
 http://31.179.233.213:8001/1:0:19:3780:44C:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Eurosport 4" tvg-logo="eurosport4hd.png" group-title="SPORTOWE",Eurosport 4 HD
 http://31.179.233.213:8001/1:0:1:32E1:190:13E:820000:0:0:0
-#EXTINF:-1 tvg-id="Eurosport 5" tvg-logo="eurosport5hd.png" group-title="SPORTOWE",Eurosport 5 HD
-http://31.179.233.213:8001/1:0:1:DB0:2D50:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TVP Sport" tvg-logo="tvpsporthd.png" group-title="SPORTOWE",TVP Sport HD
 http://31.179.233.213:8001/1:0:19:DB1:2D50:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="polsatsporthd.png" group-title="SPORTOWE",Polsat Sport HD
