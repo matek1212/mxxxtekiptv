@@ -152,7 +152,7 @@ http://89.69.207.41:8001/1:0:1:3D5B:2C88:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Epic Drama" tvg-logo="epicdrama.png" group-title="FILMOWE",Epic Drama
 http://89.69.207.41:8001/1:0:1:4290:2BC0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Kino TV" tvg-logo="filmbox.png" group-title="FILMOWE",Kino TV
-http://89.69.207.41:8001/1:0:1:3D61:2C88:13E:820000:0:0:0
+http://31.179.233.213:8001/1:0:1:3D61:2C88:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="filmboxaction.png" group-title="FILMOWE",Filmbox Action
 http://89.69.207.41:8001/1:0:1:3D65:2C88:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="FilmBox ArtHouse" tvg-logo="filmboxarthouse.png" group-title="FILMOWE",Filmbox Arthouse
