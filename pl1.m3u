@@ -41,7 +41,7 @@ http://89.68.231.89:8001/1:0:1:4287:2BC0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="WP1" tvg-logo="wp1.png" group-title="OGOLNE",WP
 http://89.68.231.89:8001/1:0:16:3D5A:2C88:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="ZOOM TV" tvg-logo="zoomtv.png" group-title="OGOLNE",ZOOM TV
-http://89.68.231.89:8001/1:0:1:4291:2BC0:13E:820000:0:0:0
+http://31.179.233.213:8001/1:0:1:4291:2BC0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Polonia 1" tvg-logo="polonia1.png" group-title="OGOLNE",Polonia 1
 http://89.68.231.89:8001/1:0:1:423C:3DB8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Tele 5" tvg-logo="tele5-lichoridas.png" group-title="OGOLNE",Tele 5
@@ -227,7 +227,7 @@ http://89.68.231.89:8001/1:0:1:10DC:3E8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TLC" tvg-logo="tlchd.png" group-title="LIFESTYLE",TLC HD
 http://89.68.231.89:8001/1:0:1:3E21:2EE0:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-logo="polsatcafehd.png" group-title="LIFESTYLE",Polsat Cafe HD
-http://89.68.231.89:8001/1:0:1:3396:3390:71:820000:0:0:0
+http://31.179.233.213:8001/1:0:1:3396:3390:71:820000:0:0:0
 #EXTINF:-1 tvg-id="Polsat Play" tvg-logo="polsatplayhd.png" group-title="LIFESTYLE",Polsat Play HD
 http://89.68.231.89:8001/1:0:1:3392:3390:71:820000:0:0:0
 #EXTINF:-1 tvg-id="TVN Style" tvg-logo="tvnstylehd.png" group-title="LIFESTYLE",TVN Style HD
