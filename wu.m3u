@@ -44,7 +44,7 @@ http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3348
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3340
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-logo="tvppolonia.png" group-title="OGOLNE",TVP Polonia
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/68561
-#EXTINF:-1 tvg-id="ITVN" tvg-name="ITVN" tvg-logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title=group-title="OGOLNE", ITVN
+#EXTINF:-1 tvg-id="ITVN" tvg-name="ITVN" tvg-logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="OGOLNE", ITVN
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/429574
 
 
@@ -923,7 +923,7 @@ http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3348
 http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3340
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-logo="tvppolonia.png" group-title="ZAPAS - OGÓLNE",TVP Polonia
 http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/68561
-#EXTINF:-1 tvg-id="ITVN" tvg-name="ITVN" tvg-logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title=group-title="ZAPAS - OGÓLNE", ITVN
+#EXTINF:-1 tvg-id="ITVN" tvg-name="ITVN" tvg-logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="ZAPAS - OGÓLNE", ITVN
 http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/429574
 
 
