@@ -1,1413 +1,715 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1524" group="OGOLNE" logo="tvp1hd.png", TVP 1 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3352
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3352
 #EXTINF:0 type="stream" channelId="1525" group="OGOLNE" logo="tvp2hd.png", TVP 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3351
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3351
 #EXTINF:0 type="stream" channelId="2373" group="OGOLNE" logo="polsathd.png", Polsat HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3345
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3345
 #EXTINF:0 type="stream" channelId="3258" group="OGOLNE" logo="polsat2hd.png", Polsat 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3344
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3344
 #EXTINF:0 type="stream" channelId="3174" group="OGOLNE" logo="tvnhd.png", TVN HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3342
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3342
 #EXTINF:0 type="stream" channelId="3201" group="OGOLNE" logo="tvn7hd.png", TVN 7 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3341
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3341
 #EXTINF:0 type="stream" channelId="3274" group="OGOLNE" logo="ttvhd.png", TTV HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3339
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3339
 #EXTINF:0 type="stream" channelId="3363" group="OGOLNE" logo="tv4hd-lichoridas.png", TV 4 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3349
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3349
 #EXTINF:0 type="stream" channelId="952" group="OGOLNE" logo="tv6-lichoridas.png", TV 6
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3347
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3347
 #EXTINF:0 type="stream" channelId="2393" group="OGOLNE" logo="tvpulshd.png", TV Puls HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3338
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3338
 #EXTINF:0 type="stream" channelId="2350" group="OGOLNE" logo="puls2.png", Puls 2
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3280
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3280
 #EXTINF:0 type="stream" channelId="4546" group="OGOLNE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tbn_us_polska.png", TBN Polska
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/68564
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/68564
 #EXTINF:0 type="stream" channelId="2407" group="OGOLNE" logo="bbcbrit.png", BBC Brit HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3275
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3275
 #EXTINF:0 type="stream" channelId="3175" group="OGOLNE" logo="superpolsathd.png", Super Polsat
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3343
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3343
 #EXTINF:0 type="stream" channelId="2351" group="OGOLNE" logo="tvprozrywka.png", TVP Rozrywka
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3253
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3253
 #EXTINF:0 type="stream" channelId="3177" group="OGOLNE" logo="nowatv.png", Nowa TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3235
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3235
 #EXTINF:0 type="stream" channelId="3282" group="OGOLNE" logo="metrotv.png", Metro
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3242
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3242
 #EXTINF:0 type="stream" channelId="3176" group="OGOLNE" logo="wp1.png", WP
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3277
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3277
 #EXTINF:0 type="stream" channelId="4386" group="OGOLNE" logo="zoomtv.png", ZOOM TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3241
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3241
 #EXTINF:0 type="stream" channelId="2414" group="OGOLNE" logo="polonia1.png", Polonia 1
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3346
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3346
 #EXTINF:0 type="stream" channelId="938" group="OGOLNE" logo="tele5-lichoridas.png", Tele 5
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3348
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3348
 #EXTINF:0 type="stream" channelId="2422" group="OGOLNE" logo="tvsilesia.png", TVS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3340
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3340
 #EXTINF:0 type="stream" channelId="954" group="OGOLNE" logo="tvppolonia.png", TVP Polonia
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/68561
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/68561
 #EXTINF:0 type="stream" channelId="3204" name="ITVN" group="OGOLNE" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", ITVN
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/429574
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/429574
 #EXTINF:0 type="stream" channelId="1522" group="INFORMACYJNE" logo="tvpinfohd.png", TVP Info HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3158
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3158
 #EXTINF:0 type="stream" channelId="2362" group="INFORMACYJNE" logo="tvp3opole.png", TVP 3 Opole
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/441740
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/441740
 #EXTINF:0 type="stream" channelId="2384" group="INFORMACYJNE" logo="tvn24hd.png", TVN 24 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3166
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3166
 #EXTINF:0 type="stream" channelId="2385" group="INFORMACYJNE" logo="tvn24bis.png", TVN 24 Biznes i Swiat HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3165
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3165
 #EXTINF:0 type="stream" channelId="2379" group="INFORMACYJNE" logo="polsatnewshd.png", Polsat News HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3164
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3164
 #EXTINF:0 type="stream" channelId="2380" group="INFORMACYJNE" logo="polsatnews2.png", Polsat News 2
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3163
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3163
 #EXTINF:0 type="stream" channelId="2382" group="INFORMACYJNE" logo="superstacja.png", Superstacja
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3162
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3162
 #EXTINF:0 type="stream" channelId="3178" group="INFORMACYJNE" logo="tvrepublika.png", TV Republika
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3161
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3161
 #EXTINF:0 type="stream" channelId="4371" group="INFORMACYJNE" logo="wpolscepl.png", wPolsce.pl
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3160
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3160
 #EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="INFORMACYJNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/TVP3.png", TVP 3
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3350
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3350
 #EXTINF:0 type="stream" channelId="3276" group="FILMOWE" logo="13ulica.png", 13 Ulica HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3304
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3304
 #EXTINF:0 type="stream" channelId="2395" group="FILMOWE" logo="alekinoplushd.png", Ale kino+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3248
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3248
 #EXTINF:0 type="stream" channelId="2501" group="FILMOWE" logo="amchd.png", AMC HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3296
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3296
 #EXTINF:0 type="stream" channelId="2246" group="FILMOWE" logo="axnhd.png", AXN HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3310
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3310
 #EXTINF:0 type="stream" channelId="1575" group="FILMOWE" logo="axnblack.png", AXN Black
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3307
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3307
 #EXTINF:0 type="stream" channelId="2431" group="FILMOWE" logo="axnspinhd.png", AXN Spin HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3306
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3306
 #EXTINF:0 type="stream" channelId="1574" group="FILMOWE" logo="axnwhite.png", AXN White
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3308
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3308
 #EXTINF:0 type="stream" channelId="4416" group="FILMOWE" logo="canalplushd-lichoridas.png", Canal+4K
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/412797
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/412797
 #EXTINF:0 type="stream" channelId="3180" group="FILMOWE" logo="canalplus1hd-lichoridas.png", Canal+1 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3333
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3333
 #EXTINF:0 type="stream" channelId="3181" group="FILMOWE" logo="canalplusfilmhd-lichoridas.png", Canal+ Film HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3331
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3331
 #EXTINF:0 type="stream" channelId="1352" group="FILMOWE" logo="canalplusfamilyhd-lichoridas.png", Canal+ Family HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3332
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3332
 #EXTINF:0 type="stream" channelId="3182" group="FILMOWE" logo="canalplusserialehd-lichoridas.png", Canal+ Seriale HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3330
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3330
 #EXTINF:0 type="stream" channelId="1345" name="CANAL + PREMIUM HD" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALPREMIUM.png", CANAL + PREMIUM HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/182410
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/182410
 #EXTINF:0 type="stream" channelId="4390" name="CANAL + NOW" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALOW.png", CANAL + NOW
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/191127
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/191127
 #EXTINF:0 type="stream" channelId="2888" group="FILMOWE" logo="cinemaxhd.png", Cinemax HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3322
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3322
 #EXTINF:0 type="stream" channelId="2889" group="FILMOWE" logo="cinemax2hd.png", Cinemax 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3321
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3321
 #EXTINF:0 type="stream" channelId="1191" group="FILMOWE" logo="comedycentralhd.png", Comedy Central HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3299
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3299
 #EXTINF:0 type="stream" channelId="3464" name="COMEDY CENTRAL EXTRA" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/COMEDYCENTRALEXTRA.png", |PL| COMEDY CENTRAL EXTRA
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/280183
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/280183
 #EXTINF:0 type="stream" channelId="2428" group="FILMOWE" logo="cbseuropa.png", CBS Europa HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3301
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3301
 #EXTINF:0 type="stream" channelId="324" group="FILMOWE" logo="cbsreality.png", CBS Reality
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3233
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3233
 #EXTINF:0 type="stream" channelId="3187" group="FILMOWE" logo="filmboxaction.png", Filmbox Action
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3325
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3325
 #EXTINF:0 type="stream" channelId="2789" group="FILMOWE" logo="filmboxarthouse.png", Filmbox Arthouse
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3323
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3323
 #EXTINF:0 type="stream" channelId="2926" group="FILMOWE" logo="filmboxextrahd.png", Filmbox Extra HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3327
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3327
 #EXTINF:0 type="stream" channelId="3021" group="FILMOWE" logo="filmboxfamily.png", Filmbox Family
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3324
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3324
 #EXTINF:0 type="stream" channelId="2927" group="FILMOWE" logo="filmboxpremium.png", Filmbox Premium
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3326
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3326
 #EXTINF:0 type="stream" channelId="208" group="FILMOWE" logo="foxhd.png", Fox HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3312
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3312
 #EXTINF:0 type="stream" channelId="2250" group="FILMOWE" logo="foxcomedyhd.png", Fox Comedy HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3311
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3311
 #EXTINF:0 type="stream" channelId="1330" group="FILMOWE" logo="hbohd.png", HBO HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3320
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3320
 #EXTINF:0 type="stream" channelId="935" group="FILMOWE" logo="hbo2hd.png", HBO2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3319
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3319
 #EXTINF:0 type="stream" channelId="3185" group="FILMOWE" logo="hbo3hd.png", HBO3 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3318
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3318
 #EXTINF:0 type="stream" channelId="2371" group="FILMOWE" logo="kinopolska.png", Kino Polska
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/68563
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/68563
 #EXTINF:0 type="stream" channelId="-1" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NOVELAS.png", Novelas+
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/243955
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/243955
 #EXTINF:0 type="stream" channelId="1497" group="FILMOWE" logo="paramountchannelhd.png", Paramount Channel HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3297
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3297
 #EXTINF:0 type="stream" channelId="3265" group="FILMOWE" logo="polsatfilmhd.png", Polsat Film HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3230
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3230
 #EXTINF:0 type="stream" channelId="3267" name="|PL| POLSAT SERIALE" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSERIALE.png", POLSAT SERIALE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3300
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3300
 #EXTINF:0 type="stream" channelId="2420" group="FILMOWE" logo="romancetvhd-wispelutri.png", Romance TV HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3278
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3278
 #EXTINF:0 type="stream" channelId="3186" group="FILMOWE" logo="scifihd.png", Scifi HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3305
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3305
 #EXTINF:0 type="stream" channelId="2338" group="FILMOWE" logo="stopklatkatv.png", Stopklatka TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3228
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3228
 #EXTINF:0 type="stream" channelId="3439" group="FILMOWE" logo="sundancetvhd.png", Sundance HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3239
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3239
 #EXTINF:0 type="stream" channelId="3203" group="FILMOWE" logo="tvnfabulahd.png", TVN Fabuła HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3293
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3293
 #EXTINF:0 type="stream" channelId="2903" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/TNTHD.png", WARNER HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3231
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3231
 #EXTINF:0 type="stream" channelId="1523" group="FILMOWE" logo="tvphd.png", TVP HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3353
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3353
 #EXTINF:0 type="stream" channelId="2337" group="FILMOWE" logo="tvpseriale.png", TVP Seriale
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3302
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3302
 #EXTINF:0 type="stream" channelId="-1" name="KINO TV HD" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/KINOTVHD.png", KINO TV HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3229
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3229
 #EXTINF:0 type="stream" channelId="3658" name="EPIC DRAMA HD" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/EPICDRAMAHD.png", |PL| EPIC DRAMA HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3232
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3232
 #EXTINF:0 type="stream" channelId="2417" name="NOVELA TV" group="FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NOVELATV.png", NOVELA TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3240
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3240
 #EXTINF:0 type="stream" channelId="3194" group="SPORTOWE" logo="elevensports1.png", Eleven Sports 1 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3177
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3177
 #EXTINF:0 type="stream" channelId="3196" group="SPORTOWE" logo="elevensports2.png", Eleven Sports 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3176
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3176
 #EXTINF:0 type="stream" channelId="3195" group="SPORTOWE" logo="elevensports3.png", Eleven Sports 3 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3175
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3175
 #EXTINF:0 type="stream" channelId="3657" group="SPORTOWE" logo="elevensports4.png", Eleven Sports 4 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3174
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3174
 #EXTINF:0 type="stream" channelId="1350" group="SPORTOWE" logo="canal+sporthd.png", Canal+ Sport HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3193
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3193
 #EXTINF:0 type="stream" channelId="3193" group="SPORTOWE" logo="canalplussport2hd-lichoridas.png", Canal+ Sport 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3192
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3192
 #EXTINF:0 type="stream" channelId="4389" group="SPORTOWE" logo="canalplussport3hd-lichoridas.png" size="Small", Canal+ Sport 3 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3191
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3191
 #EXTINF:0 type="stream" channelId="4389" group="SPORTOWE" logo="canalplussport4hd-lichoridas.png", Canal+ Sport 4 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3190
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3190
 #EXTINF:0 type="stream" channelId="2406" name="CANAL+ SPORT5" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NSPORT.png", CANAL+ SPORT5
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3189
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3189
 #EXTINF:0 type="stream" channelId="225" group="SPORTOWE" logo="eurosport1hd.png", Eurosport HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3187
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3187
 #EXTINF:0 type="stream" channelId="933" group="SPORTOWE" logo="eurosport2hd.png", Eurosport 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3186
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3186
 #EXTINF:0 type="stream" channelId="2336" group="SPORTOWE" logo="tvpsporthd.png", TVP Sport HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3169
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3169
 #EXTINF:0 type="stream" channelId="3262" group="SPORTOWE" logo="polsatsporthd.png", Polsat Sport HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3185
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3185
 #EXTINF:0 type="stream" channelId="2376" group="SPORTOWE" logo="polsatsportextrahd.png", Polsat Sport Extra HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3195
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3195
 #EXTINF:0 type="stream" channelId="3197" group="SPORTOWE" logo="polsatsportfighthd.png", Polsat Sport Fight HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3194
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3194
 #EXTINF:0 type="stream" channelId="3263" group="SPORTOWE" logo="polsatsportnews.png", Polsat Sport News HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3168
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3168
 #EXTINF:0 type="stream" channelId="4394" name="POLSAT SPORT PREM. 1 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM1.png", POLSAT SPORT PREM. 1 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3183
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3183
 #EXTINF:0 type="stream" channelId="4395" name="POLSAT SPORT PREM. 2 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM2.png", POLSAT SPORT PREM. 2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3182
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3182
 #EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 3 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM3.png", POLSAT SPORT PREM. 3 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3181
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3181
 #EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 4 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM3.png", POLSAT SPORT PREM. 4 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3180
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3180
 #EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 5 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM5.png", POLSAT SPORT PREM. 5 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3179
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3179
 #EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 6 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM6.png", POLSAT SPORT PREM. 6 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3178
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3178
 #EXTINF:0 type="stream" channelId="2390" group="SPORTOWE" logo="tvnturbohd.png", TVN Turbo HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3292
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3292
 #EXTINF:0 type="stream" channelId="3199" group="SPORTOWE" logo="fightklubhd.png", Fight Klub HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3171
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3171
 #EXTINF:0 type="stream" channelId="2808" group="SPORTOWE" logo="fightboxhd.png", Fightbox HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3172
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3172
 #EXTINF:0 type="stream" channelId="156" group="SPORTOWE" logo="extremesportshd.png", Extreme Sports HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3184
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3184
 #EXTINF:0 type="stream" channelId="1564" group="SPORTOWE" logo="sportklub.png", Sport Klub
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3188
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3188
 #EXTINF:0 type="stream" channelId="2419" group="SPORTOWE" logo="motowizjahd.png", Motowizja HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3283
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3283
 #EXTINF:0 type="stream" channelId="1389" group="SPORTOWE" logo="golfchannel.png", Golf Channel Polska
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3173
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3173
 #EXTINF:0 type="stream" channelId="-1" name="VIAPLAY" group="PL| VIAPLAY" logo="http://logos.ottcst.net:8080/logos//POLSKA/VIAPLAY.png", VIAPLAY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/255202
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/255202
 #EXTINF:0 type="stream" channelId="-1" name="PPV KSW FIGHTS |LIVE ON MATCHES|" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/PPVKSWFIGHTS.png", |PL| PPV KSW FIGHTS |LIVE ON MATCHES|
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3170
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3170
 #EXTINF:0 type="stream" channelId="-1" name="PPV  |THE WAR 4|" group="SPORTOWE" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| PPV  |THE WAR 4|
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/436488
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/436488
 #EXTINF:0 type="stream" channelId="-1" name="PPV 2" group="SPORTOWE", |PL| PPV 2
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/436531
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/436531
 #EXTINF:0 type="stream" channelId="2426" group="POPULARNONAUKOWE" logo="adventurehd.png", Adventure HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3291
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3291
 #EXTINF:0 type="stream" channelId="240" group="POPULARNONAUKOWE" logo="animalplanethd.png", Animal Planet HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3219
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3219
 #EXTINF:0 type="stream" channelId="3192" group="POPULARNONAUKOWE" logo="bbcearth.png", BBC Earth HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3213
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3213
 #EXTINF:0 type="stream" channelId="4374" group="POPULARNONAUKOWE" logo="bbcfirst.png", BBC First HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3273
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3273
 #EXTINF:0 type="stream" channelId="-1" group="POPULARNONAUKOWE" logo="canalplusdiscoveryhd.jpg", Canal+ Discovery HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3328
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3328
 #EXTINF:0 type="stream" channelId="341" group="POPULARNONAUKOWE" logo="discoverychannelhd.png", Discovery Channel HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3209
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3209
 #EXTINF:0 type="stream" channelId="3189" group="POPULARNONAUKOWE" logo="discoveryhistoria.png", Discovery Historia
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3207
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3207
 #EXTINF:0 type="stream" channelId="1189" name="CRIME AND INVESTIGATION HD" group="POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos/PORTUGAL/CRIMEINVESTIGATION.png", CRIME AND INVESTIGATION HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3197
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3197
 #EXTINF:0 type="stream" channelId="1508" group="POPULARNONAUKOWE" logo="discoverysciencehd-clivebesle.png", Discovery Science HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3210
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3210
 #EXTINF:0 type="stream" channelId="60" group="POPULARNONAUKOWE" logo="discoveryturboxtrahd.png", Discovery Turbo Xtra HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3287
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3287
 #EXTINF:0 type="stream" channelId="2342" group="POPULARNONAUKOWE" logo="fokustv.png", Fokus TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3285
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3285
 #EXTINF:0 type="stream" channelId="1456" group="POPULARNONAUKOWE" logo="historyhd.png", History HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3216
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3216
 #EXTINF:0 type="stream" channelId="1202" group="POPULARNONAUKOWE" logo="history2hd.png", H2 HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3212
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3212
 #EXTINF:0 type="stream" channelId="207" group="POPULARNONAUKOWE" logo="nationalgeographichd.png", National Geographic Channel HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3198
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3198
 #EXTINF:0 type="stream" channelId="2255" group="POPULARNONAUKOWE" logo="natgeopeoplehd.png", Nat Geo People HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3220
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3220
 #EXTINF:0 type="stream" channelId="206" group="POPULARNONAUKOWE" logo="natgeowildhd.png", Nat Geo Wild HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3202
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3202
 #EXTINF:0 type="stream" channelId="3268" group="POPULARNONAUKOWE" logo="polsatdoku.png", Polsat Doku HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3211
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3211
 #EXTINF:0 type="stream" channelId="3272" group="POPULARNONAUKOWE" logo="polsatviasatexplorehd.png", Polsat Viasat Explore HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3203
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3203
 #EXTINF:0 type="stream" channelId="3271" group="POPULARNONAUKOWE" logo="polsatviasathistoryhd.png", Polsat Viasat History HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3200
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3200
 #EXTINF:0 type="stream" channelId="3270" group="POPULARNONAUKOWE" logo="polsatviasatnaturehd.png", Polsat Viasat Nature HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3199
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3199
 #EXTINF:0 type="stream" channelId="3191" group="POPULARNONAUKOWE" logo="planeteplushd.png", Planete+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3218
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3218
 #EXTINF:0 type="stream" channelId="235" group="POPULARNONAUKOWE" logo="travelchannelhd.png", Travel Channel HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3294
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3294
 #EXTINF:0 type="stream" channelId="2333" group="POPULARNONAUKOWE" logo="tvphistoria.png", TVP Historia
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3214
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3214
 #EXTINF:0 type="stream" channelId="2334" group="POPULARNONAUKOWE" logo="tvpkultura.png", TVP Kultura
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3295
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3295
 #EXTINF:0 type="stream" channelId="2415" group="POPULARNONAUKOWE" logo="waterplanet.png", Water Planet
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3201
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3201
 #EXTINF:0 type="stream" channelId="171" group="POPULARNONAUKOWE" logo="davincilearning.png", Da Vinci Learning
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3290
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3290
 #EXTINF:0 type="stream" channelId="3183" name="|PL| CANAL + DOKUMENT HD" group="POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALDOKUMENT.png", CANAL + DOKUMENT HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/191578
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/191578
 #EXTINF:0 type="stream" channelId="3269" name="CI POLSAT HD" group="POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CIPOLSATHD.png", CI POLSAT HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3217
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3217
 #EXTINF:0 type="stream" channelId="3770" name="ID HD" group="POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/IDHD.png", ID HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3215
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3215
 #EXTINF:0 type="stream" channelId="4380" group="LIFESTYLE" logo="activefamily.png", Active Family
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3276
-#EXTINF:0 type="stream" channelId="1145" group="LIFESTYLE" logo="bbclifestyle.png", BBC Lifestyle HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3274
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3276
+#EXTINF:0 type="stream" channelId="1145" group="LIFESTYLE" logo="bbcLIFESTYLE.png", BBC LIFESTYLE HD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3274
 #EXTINF:0 type="stream" channelId="2400" group="LIFESTYLE" logo="domoplushd.png", Domo+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3288
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3288
 #EXTINF:0 type="stream" channelId="1418" group="LIFESTYLE" logo="hgtv.png", HGTV HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3236
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3236
 #EXTINF:0 type="stream" channelId="1188" group="LIFESTYLE" logo="eentertainment.png", E! Entertainment
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3303
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3303
 #EXTINF:0 type="stream" channelId="1720" group="LIFESTYLE" logo="foodnetworkhd.png", Food Network HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3289
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3289
 #EXTINF:0 type="stream" channelId="2398" group="LIFESTYLE" logo="kuchniaplushd.png", Kuchnia+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/182407
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/182407
 #EXTINF:0 type="stream" channelId="2398" name="KUCHNIA HD" group="LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALKUCHINIA.png", KUCHNIA HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3284
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3284
 #EXTINF:0 type="stream" channelId="3279" group="LIFESTYLE" logo="discoverylife-lichoridas.png", Discovery Life HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3208
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3208
 #EXTINF:0 type="stream" channelId="1040" group="LIFESTYLE" logo="tlchd.png", TLC HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3298
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3298
 #EXTINF:0 type="stream" channelId="3264" group="LIFESTYLE" logo="polsatcafehd.png", Polsat Cafe HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3245
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3245
 #EXTINF:0 type="stream" channelId="3266" group="LIFESTYLE" logo="polsatplayhd.png", Polsat Play HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3244
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3244
 #EXTINF:0 type="stream" channelId="4382" name="POLSAT RODZINA" group="LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATRODZINA.png", POLSAT RODZINA
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3336
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3336
 #EXTINF:0 type="stream" channelId="2388" group="LIFESTYLE" logo="tvnstylehd.png", TVN Style HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3238
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3238
 #EXTINF:0 type="stream" channelId="4383" name="STUDIOMED TV HD" group="LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/STUDIOMEDTVHD.png", STUDIOMED TV HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3157
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3157
 #EXTINF:0 type="stream" channelId="601" group="MUZYCZNE" logo="4funtv.png", 4Fun TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3226
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3226
 #EXTINF:0 type="stream" channelId="3200" group="MUZYCZNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/4FUNGOLDHITS.png", 4Fun Fit and Dance
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3204
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3204
 #EXTINF:0 type="stream" channelId="4376" group="MUZYCZNE" logo="4funhits.png", 4FUN HITS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3205
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3205
 #EXTINF:0 type="stream" channelId="2368" group="MUZYCZNE" logo="discopolomusic.png", Disco Polo Music
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3206
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3206
 #EXTINF:0 type="stream" channelId="1241" group="MUZYCZNE" logo="eskatv.png", Eska TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3159
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3159
 #EXTINF:0 type="stream" channelId="4391" group="MUZYCZNE" logo="eskatvextra.png", Eska TV Extra
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3222
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3222
 #EXTINF:0 type="stream" channelId="1242" group="MUZYCZNE" logo="eskatvrock.png", Eska ROCK TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3223
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3223
 #EXTINF:0 type="stream" channelId="2430" group="MUZYCZNE" logo="kinopolskamuzyka.png", Kino Polska Muzyka
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3251
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3251
 #EXTINF:0 type="stream" channelId="1106" group="MUZYCZNE" logo="mtv.png", MTV Polska
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3250
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3250
 #EXTINF:0 type="stream" channelId="237" group="MUZYCZNE" logo="mtvlivehd.png", MTV Live HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3255
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3255
 #EXTINF:0 type="stream" channelId="290" group="MUZYCZNE", MTV ROCKS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3252
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3252
 #EXTINF:0 type="stream" channelId="2715" name="MTV MUSIC" group="MUZYCZNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/MTVMUSIC.png", MTV MUSIC
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3249
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3249
 #EXTINF:0 type="stream" channelId="4384" group="MUZYCZNE" logo="nutatv.png", NUTA TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3282
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3282
 #EXTINF:0 type="stream" channelId="2343" group="MUZYCZNE" logo="polotv.png", Polo TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3243
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3243
 #EXTINF:0 type="stream" channelId="4366" group="MUZYCZNE" logo="polsatmusic.png", Polsat Music HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3225
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3225
 #EXTINF:0 type="stream" channelId="3289" group="MUZYCZNE" logo="powertv-lichoridas.png", POWER TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3281
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3281
 #EXTINF:0 type="stream" channelId="4377" group="MUZYCZNE" logo="starstv.png", Stars TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3227
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3227
 #EXTINF:0 type="stream" channelId="3291" group="MUZYCZNE" logo="totv.png", TO!TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3247
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3247
 #EXTINF:0 type="stream" channelId="1724" group="MUZYCZNE" logo="traceurban.png", TRACE Urban
 http://83.144.121.50:8001/1:0:1:DB6:2D50:13E:820000:0:0:0
 #EXTINF:0 type="stream" channelId="151" group="MUZYCZNE" logo="vh1.png", VH1
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3254
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3254
 #EXTINF:0 type="stream" channelId="4392" group="MUZYCZNE" logo="voxmusictv.png", VOX Music TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3224
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3224
 #EXTINF:0 type="stream" channelId="473" group="BAJKI" logo="babytv.png", Baby TV
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3270
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3270
 #EXTINF:0 type="stream" channelId="321" group="BAJKI" logo="boomerang.png", Boomerang
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3268
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3268
 #EXTINF:0 type="stream" channelId="1147" group="BAJKI" logo="cbeebies.png", BBC CBeebies
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3258
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3258
 #EXTINF:0 type="stream" channelId="2719" group="BAJKI" logo="cartoonnetworkhd.png", Cartoon Network HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3267
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3267
 #EXTINF:0 type="stream" channelId="2720" group="BAJKI" logo="disneychannelhd.png", Disney Channel HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3264
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3264
 #EXTINF:0 type="stream" channelId="1197" group="BAJKI" logo="disneyjunior.png", Disney Junior
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3265
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3265
 #EXTINF:0 type="stream" channelId="1198" group="BAJKI" logo="disneyxd.png", Disney XD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3266
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3266
 #EXTINF:0 type="stream" channelId="3261" group="BAJKI" logo="jimjampolsat.png", JimJam Polsat
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3269
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3269
 #EXTINF:0 type="stream" channelId="2402" group="BAJKI" logo="miniminiplushd.png", MiniMini+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3259
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3259
 #EXTINF:0 type="stream" channelId="334" group="BAJKI" logo="nickelodeonhd.png", Nickelodeon HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3262
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3262
 #EXTINF:0 type="stream" channelId="322" group="BAJKI" logo="nickjr.png", Nick Jr
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3263
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3263
 #EXTINF:0 type="stream" channelId="2712" group="BAJKI" logo="nicktoonshd.png", Nicktoons HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3261
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3261
 #EXTINF:0 type="stream" channelId="2404" group="BAJKI" logo="teletoonplushd-lichoridas.png", Teletoon+ HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3260
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3260
 #EXTINF:0 type="stream" channelId="2332" group="BAJKI" logo="tvpabc.png", TVP ABC
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3246
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3246
 #EXTINF:0 type="stream" channelId="4381" name="POLSAT GAMES" group="BAJKI" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATGAMES.png", POLSAT GAMES
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3257
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 1" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 1
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418165
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 2" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 2
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418164
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 3" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 3
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418163
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 4" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 4
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418162
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 5" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 5
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418161
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 6" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 6
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418160
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 7" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 7
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418159
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 8" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 8
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418158
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 9" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 9
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418157
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 10" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 10
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418156
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 11" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 11
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418155
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 12" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 12
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418154
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 13" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 13
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418153
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 14" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 14
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418152
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 15" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 15
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418151
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 16" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 16
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418150
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 17" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 17
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418149
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 18" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 18
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418148
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 19" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 19
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418147
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY 20" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| VIAPLAY 20
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/418146
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 1" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 1
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459567
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 2" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 2
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459566
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 3" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 3
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459565
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 4" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 4
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459564
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 5" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 5
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459563
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 6" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 6
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459562
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 7" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 7
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459561
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 8" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 8
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459560
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 9" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 9
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459559
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 10" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 10
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459558
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 11" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 11
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459557
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 12" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 12
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459556
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 13" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 13
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459555
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 14" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 14
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459554
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 15" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 15
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459553
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 16" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 16
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459552
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 17" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 17
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459551
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 18" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 18
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459550
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 19" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 19
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459549
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 20" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 20
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459548
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 21" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 21
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459547
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 22" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 22
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459546
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 23" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 23
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459545
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 24" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 24
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459544
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 25" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 25
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459543
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 26" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 26
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459542
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 27" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 27
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459541
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 28" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 28
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459540
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 29" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 29
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459539
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 30" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 30
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459538
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 31" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 31
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459537
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 32" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 32
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459536
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 33" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 33
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459535
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 34" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 34
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459534
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 35" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 35
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459533
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 36" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 36
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459532
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 37" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 37
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459531
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 38" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 38
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459530
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 39" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 39
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459529
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 40" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 40
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459528
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 41" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 41
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459527
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 42" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 42
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459526
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 43" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 43
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459525
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 44" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 44
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459524
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 45" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 45
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459523
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 46" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 46
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459522
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 47" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 47
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459521
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 48" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 48
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459520
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA 49" group="PL| VIAPLAY", |PL| VIAPLAY XTRA 49
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/459519
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC HIT" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC HIT
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/191168
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC MIX" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC MIX
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/224429
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC RAP" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC RAP
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298941
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CHILL" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC CHILL
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298940
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC REMIX" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC REMIX
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/302136
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CLASSIC" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC CLASSIC
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/306449
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC AFRO" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC AFRO
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/318485
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC POPULAR" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC POPULAR
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298939
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC BILLBOARD" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC BILLBOARD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298938
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC HOUSE" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC HOUSE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298937
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC DANCE" group="VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC DANCE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298936
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP THE VOICE HD" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP THE VOICE HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/191583
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DOCU RELAXATION" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DOCU RELAXATION
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/229319
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BLIPPI" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BLIPPI
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/432335
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPIEWAJACE BRZDACE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPIEWAJACE BRZDACE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/435521
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BING" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BING
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/433248
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PAW PATROL" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PAW PATROL
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/444149
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SHAUN THE SHEEP" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SHAUN THE SHEEP
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/289571
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS MACHA AND BEAR" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS MACHA AND BEAR
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/196614
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS TOM AND JERRY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS TOM AND JERRY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/226534
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS ZIG AND SHARKO" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS ZIG AND SHARKO
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/229720
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SWINKA PEPPA" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SWINKA PEPPA
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/198977
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS RABBIDS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS RABBIDS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/230879
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS OGGY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS OGGY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/230860
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BOOBA" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BOOBA
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/229525
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PJ MASKS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PJ MASKS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/200210
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPONGEBOB" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPONGEBOB
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/305976
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS GRAVITY FALLS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS GRAVITY FALLS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/196588
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PARADISE PD" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PARADISE PD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/195966
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS DRAGON BALL" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS DRAGON BALL
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/195921
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP COOKING WORLD HD" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP COOKING WORLD HD
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/289702
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP REALITY SHOW" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP REALITY SHOW
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/194372
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP NETFLIX SERIES" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP NETFLIX SERIES
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/192126
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP JUST FOR LAUGHS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP JUST FOR LAUGHS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/232835
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VOD 205" group="VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/VOD205.png", |PL| VOD 205
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3317
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VOD 206" group="VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/VOD206.png", |PL| VOD 206
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3316
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VOD 207" group="VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/VOD207.png", |PL| VOD 207
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3315
-#EXTINF:0 type="stream" channelId="-1" name="|PL| VOD 208" group="VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/VOD208.png", |PL| VOD 208
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/3314
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NETFLIX" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NETFLIX
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/190667
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DISNEY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DISNEY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/446812
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WARNER BROS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WARNER BROS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/436357
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES AMAZON PRIME" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES AMAZON PRIME
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/430426
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ACTION" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ACTION
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298933
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ROMANCE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ROMANCE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298935
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DRAMA" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DRAMA
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298942
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HORROR" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HORROR
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298943
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THRILLER" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THRILLER
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301678
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FANTASY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FANTASY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301996
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MARVEL" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MARVEL
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/303511
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CRIME" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CRIME
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/299038
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FAMILY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FAMILY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/299375
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WAR" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WAR
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/300015
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WESTERN" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WESTERN
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/299298
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HISTORY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HISTORY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/299006
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CHRISTMAS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CHRISTMAS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/284883
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MUSIC" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MUSIC
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/299005
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ANIMATED" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ANIMATED
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/190705
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DOCUMENTARY" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DOCUMENTARY
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/298934
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SYLVESTER STALLONE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SYLVESTER STALLONE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301712
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JASON STATHAM" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JASON STATHAM
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301307
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DWAYNE JOHNSON" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DWAYNE JOHNSON
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/302384
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES TOM CRUISE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES TOM CRUISE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301314
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NICOLAS CAGE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NICOLAS CAGE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301333
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE LORD OF THE RINGS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE LORD OF THE RINGS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/428838
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SAW" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SAW
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/428837
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TERMINATOR" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TERMINATOR
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/438726
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES STAR WARS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES STAR WARS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/438725
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES RESIDENT EVIL" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES RESIDENT EVIL
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/438724
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MISSION IMPOSSIBLE" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MISSION IMPOSSIBLE
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/438723
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JAKCY CHAN" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JAKCY CHAN
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/438722
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TWILIGHT SAGA ZMIERZCH" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TWILIGHT SAGA ZMIERZCH
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/428836
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE HOBBIT" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE HOBBIT
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/428835
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE FAST AND THE FURIOUS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE FAST AND THE FURIOUS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/428834
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HARRY POTTER" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HARRY POTTER
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/431300
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DICAPRIO" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DICAPRIO
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/301593
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIAPLAY TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIAPLAY TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442879
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP TNT TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP TNT TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442878
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP POLSKIE TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP POLSKIE TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442877
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HULU TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HULU TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442876
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FXX TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FXX TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442875
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FREEFORM TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FREEFORM TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442874
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FOX SHOWCASE TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FOX SHOWCASE TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442873
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DC TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DC TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442872
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP AMAZON PRIME TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP AMAZON PRIME TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442871
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP APPLE TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP APPLE TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442870
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DISNEY TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DISNEY TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442869
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HBO TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HBO TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442868
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MARVEL TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MARVEL TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442867
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP NETFLIX TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP NETFLIX TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442866
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP SHOWTIME TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP SHOWTIME TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442865
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIDEOLAND TV SHOWS" group="VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIDEOLAND TV SHOWS
-http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/442864
-#EXTINF:0 type="stream" channelId="1524" group="ZAPAS - OGOLNE" logo="tvp1hd.png", TVP 1 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3352
-#EXTINF:0 type="stream" channelId="1525" group="ZAPAS - OGOLNE" logo="tvp2hd.png", TVP 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3351
-#EXTINF:0 type="stream" channelId="2373" group="ZAPAS - OGOLNE" logo="polsathd.png", Polsat HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3345
-#EXTINF:0 type="stream" channelId="3258" group="ZAPAS - OGOLNE" logo="polsat2hd.png", Polsat 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3344
-#EXTINF:0 type="stream" channelId="3174" group="ZAPAS - OGOLNE" logo="tvnhd.png", TVN HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3342
-#EXTINF:0 type="stream" channelId="3201" group="ZAPAS - OGOLNE" logo="tvn7hd.png", TVN 7 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3341
-#EXTINF:0 type="stream" channelId="3274" group="ZAPAS - OGOLNE" logo="ttvhd.png", TTV HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3339
-#EXTINF:0 type="stream" channelId="3363" group="ZAPAS - OGOLNE" logo="tv4hd-lichoridas.png", TV 4 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3349
-#EXTINF:0 type="stream" channelId="952" group="ZAPAS - OGOLNE" logo="tv6-lichoridas.png", TV 6
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3347
-#EXTINF:0 type="stream" channelId="2393" group="ZAPAS - OGOLNE" logo="tvpulshd.png", TV Puls HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3338
-#EXTINF:0 type="stream" channelId="2350" group="ZAPAS - OGOLNE" logo="puls2.png", Puls 2
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3280
-#EXTINF:0 type="stream" channelId="4546" group="ZAPAS - OGOLNE" logo="https://www.lyngsat-logo.com/logo/tv/tt/tbn_us_polska.png", TBN Polska
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/68564
-#EXTINF:0 type="stream" channelId="2407" group="ZAPAS - OGOLNE" logo="bbcbrit.png", BBC Brit HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3275
-#EXTINF:0 type="stream" channelId="3175" group="ZAPAS - OGOLNE" logo="superpolsathd.png", Super Polsat
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3343
-#EXTINF:0 type="stream" channelId="2351" group="ZAPAS - OGOLNE" logo="tvprozrywka.png", TVP Rozrywka
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3253
-#EXTINF:0 type="stream" channelId="3177" group="ZAPAS - OGOLNE" logo="nowatv.png", Nowa TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3235
-#EXTINF:0 type="stream" channelId="3282" group="ZAPAS - OGOLNE" logo="metrotv.png", Metro
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3242
-#EXTINF:0 type="stream" channelId="3176" group="ZAPAS - OGOLNE" logo="wp1.png", WP
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3277
-#EXTINF:0 type="stream" channelId="4386" group="ZAPAS - OGOLNE" logo="zoomtv.png", ZOOM TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3241
-#EXTINF:0 type="stream" channelId="2414" group="ZAPAS - OGOLNE" logo="polonia1.png", Polonia 1
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3346
-#EXTINF:0 type="stream" channelId="938" group="ZAPAS - OGOLNE" logo="tele5-lichoridas.png", Tele 5
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3348
-#EXTINF:0 type="stream" channelId="2422" group="ZAPAS - OGOLNE" logo="tvsilesia.png", TVS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3340
-#EXTINF:0 type="stream" channelId="954" group="ZAPAS - OGOLNE" logo="tvppolonia.png", TVP Polonia
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/68561
-#EXTINF:0 type="stream" channelId="3204" name="ITVN" group="ZAPAS - OGOLNE" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", ITVN
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/429574
-#EXTINF:0 type="stream" channelId="1522" group="ZAPAS - INFORMACYJNE" logo="tvpinfohd.png", TVP Info HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3158
-#EXTINF:0 type="stream" channelId="2362" group="ZAPAS - INFORMACYJNE" logo="tvp3opole.png", TVP 3 Opole
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/441740
-#EXTINF:0 type="stream" channelId="2384" group="ZAPAS - INFORMACYJNE" logo="tvn24hd.png", TVN 24 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3166
-#EXTINF:0 type="stream" channelId="2385" group="ZAPAS - INFORMACYJNE" logo="tvn24bis.png", TVN 24 Biznes i Swiat HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3165
-#EXTINF:0 type="stream" channelId="2379" group="ZAPAS - INFORMACYJNE" logo="polsatnewshd.png", Polsat News HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3164
-#EXTINF:0 type="stream" channelId="2380" group="ZAPAS - INFORMACYJNE" logo="polsatnews2.png", Polsat News 2
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3163
-#EXTINF:0 type="stream" channelId="2382" group="ZAPAS - INFORMACYJNE" logo="superstacja.png", Superstacja
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3162
-#EXTINF:0 type="stream" channelId="3178" group="ZAPAS - INFORMACYJNE" logo="tvrepublika.png", TV Republika
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3161
-#EXTINF:0 type="stream" channelId="4371" group="ZAPAS - INFORMACYJNE" logo="wpolscepl.png", wPolsce.pl
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3160
-#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="ZAPAS - INFORMACYJNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/TVP3.png", TVP 3
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3350
-#EXTINF:0 type="stream" channelId="3276" group="ZAPAS - FILMOWE" logo="13ulica.png", 13 Ulica HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3304
-#EXTINF:0 type="stream" channelId="2395" group="ZAPAS - FILMOWE" logo="alekinoplushd.png", Ale kino+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3248
-#EXTINF:0 type="stream" channelId="2501" group="ZAPAS - FILMOWE" logo="amchd.png", AMC HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3296
-#EXTINF:0 type="stream" channelId="2246" group="ZAPAS - FILMOWE" logo="axnhd.png", AXN HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3310
-#EXTINF:0 type="stream" channelId="1575" group="ZAPAS - FILMOWE" logo="axnblack.png", AXN Black
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3307
-#EXTINF:0 type="stream" channelId="2431" group="ZAPAS - FILMOWE" logo="axnspinhd.png", AXN Spin HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3306
-#EXTINF:0 type="stream" channelId="1574" group="ZAPAS - FILMOWE" logo="axnwhite.png", AXN White
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3308
-#EXTINF:0 type="stream" channelId="4416" group="ZAPAS - FILMOWE" logo="canalplushd-lichoridas.png", Canal+4K
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/412797
-#EXTINF:0 type="stream" channelId="3180" group="ZAPAS - FILMOWE" logo="canalplus1hd-lichoridas.png", Canal+1 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3333
-#EXTINF:0 type="stream" channelId="3181" group="ZAPAS - FILMOWE" logo="canalplusfilmhd-lichoridas.png", Canal+ Film HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3331
-#EXTINF:0 type="stream" channelId="1352" group="ZAPAS - FILMOWE" logo="canalplusfamilyhd-lichoridas.png", Canal+ Family HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3332
-#EXTINF:0 type="stream" channelId="3182" group="ZAPAS - FILMOWE" logo="canalplusserialehd-lichoridas.png", Canal+ Seriale HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3330
-#EXTINF:0 type="stream" channelId="1345" name="CANAL + PREMIUM HD" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALPREMIUM.png", CANAL + PREMIUM HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/182410
-#EXTINF:0 type="stream" channelId="4390" name="CANAL + NOW" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALOW.png", CANAL + NOW
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/191127
-#EXTINF:0 type="stream" channelId="2888" group="ZAPAS - FILMOWE" logo="cinemaxhd.png", Cinemax HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3322
-#EXTINF:0 type="stream" channelId="2889" group="ZAPAS - FILMOWE" logo="cinemax2hd.png", Cinemax 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3321
-#EXTINF:0 type="stream" channelId="1191" group="ZAPAS - FILMOWE" logo="comedycentralhd.png", Comedy Central HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3299
-#EXTINF:0 type="stream" channelId="3464" name="COMEDY CENTRAL EXTRA" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/COMEDYCENTRALEXTRA.png", |PL| COMEDY CENTRAL EXTRA
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/280183
-#EXTINF:0 type="stream" channelId="2428" group="ZAPAS - FILMOWE" logo="cbseuropa.png", CBS Europa HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3301
-#EXTINF:0 type="stream" channelId="324" group="ZAPAS - FILMOWE" logo="cbsreality.png", CBS Reality
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3233
-#EXTINF:0 type="stream" channelId="3187" group="ZAPAS - FILMOWE" logo="filmboxaction.png", Filmbox Action
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3325
-#EXTINF:0 type="stream" channelId="2789" group="ZAPAS - FILMOWE" logo="filmboxarthouse.png", Filmbox Arthouse
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3323
-#EXTINF:0 type="stream" channelId="2926" group="ZAPAS - FILMOWE" logo="filmboxextrahd.png", Filmbox Extra HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3327
-#EXTINF:0 type="stream" channelId="3021" group="ZAPAS - FILMOWE" logo="filmboxfamily.png", Filmbox Family
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3324
-#EXTINF:0 type="stream" channelId="2927" group="ZAPAS - FILMOWE" logo="filmboxpremium.png", Filmbox Premium
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3326
-#EXTINF:0 type="stream" channelId="208" group="ZAPAS - FILMOWE" logo="foxhd.png", Fox HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3312
-#EXTINF:0 type="stream" channelId="2250" group="ZAPAS - FILMOWE" logo="foxcomedyhd.png", Fox Comedy HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3311
-#EXTINF:0 type="stream" channelId="1330" group="ZAPAS - FILMOWE" logo="hbohd.png", HBO HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3320
-#EXTINF:0 type="stream" channelId="935" group="ZAPAS - FILMOWE" logo="hbo2hd.png", HBO2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3319
-#EXTINF:0 type="stream" channelId="3185" group="ZAPAS - FILMOWE" logo="hbo3hd.png", HBO3 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3318
-#EXTINF:0 type="stream" channelId="2371" group="ZAPAS - FILMOWE" logo="kinopolska.png", Kino Polska
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/68563
-#EXTINF:0 type="stream" channelId="-1" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NOVELAS.png", Novelas+
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/243955
-#EXTINF:0 type="stream" channelId="1497" group="ZAPAS - FILMOWE" logo="paramountchannelhd.png", Paramount Channel HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3297
-#EXTINF:0 type="stream" channelId="3265" group="ZAPAS - FILMOWE" logo="polsatfilmhd.png", Polsat Film HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3230
-#EXTINF:0 type="stream" channelId="3267" name="|PL| POLSAT SERIALE" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSERIALE.png", POLSAT SERIALE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3300
-#EXTINF:0 type="stream" channelId="2420" group="ZAPAS - FILMOWE" logo="romancetvhd-wispelutri.png", Romance TV HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3278
-#EXTINF:0 type="stream" channelId="3186" group="ZAPAS - FILMOWE" logo="scifihd.png", Scifi HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3305
-#EXTINF:0 type="stream" channelId="2338" group="ZAPAS - FILMOWE" logo="stopklatkatv.png", Stopklatka TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3228
-#EXTINF:0 type="stream" channelId="3439" group="ZAPAS - FILMOWE" logo="sundancetvhd.png", Sundance HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3239
-#EXTINF:0 type="stream" channelId="3203" group="ZAPAS - FILMOWE" logo="tvnfabulahd.png", TVN Fabuła HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3293
-#EXTINF:0 type="stream" channelId="2903" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/TNTHD.png", WARNER HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3231
-#EXTINF:0 type="stream" channelId="1523" group="ZAPAS - FILMOWE" logo="tvphd.png", TVP HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3353
-#EXTINF:0 type="stream" channelId="2337" group="ZAPAS - FILMOWE" logo="tvpseriale.png", TVP Seriale
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3302
-#EXTINF:0 type="stream" channelId="-1" name="KINO TV HD" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/KINOTVHD.png", KINO TV HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3229
-#EXTINF:0 type="stream" channelId="3658" name="EPIC DRAMA HD" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/EPICDRAMAHD.png", |PL| EPIC DRAMA HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3232
-#EXTINF:0 type="stream" channelId="2417" name="NOVELA TV" group="ZAPAS - FILMOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NOVELATV.png", NOVELA TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3240
-#EXTINF:0 type="stream" channelId="3194" group="SPORTOWE" logo="elevensports1.png", Eleven Sports 1 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3177
-#EXTINF:0 type="stream" channelId="3196" group="SPORTOWE" logo="elevensports2.png", Eleven Sports 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3176
-#EXTINF:0 type="stream" channelId="3195" group="SPORTOWE" logo="elevensports3.png", Eleven Sports 3 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3175
-#EXTINF:0 type="stream" channelId="3657" group="SPORTOWE" logo="elevensports4.png", Eleven Sports 4 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3174
-#EXTINF:0 type="stream" channelId="1350" group="SPORTOWE" logo="canal+sporthd.png", Canal+ Sport HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3193
-#EXTINF:0 type="stream" channelId="3193" group="SPORTOWE" logo="canalplussport2hd-lichoridas.png", Canal+ Sport 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3192
-#EXTINF:0 type="stream" channelId="4389" group="SPORTOWE" logo="canalplussport3hd-lichoridas.png" size="Small", Canal+ Sport 3 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3191
-#EXTINF:0 type="stream" channelId="4389" group="SPORTOWE" logo="canalplussport4hd-lichoridas.png", Canal+ Sport 4 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3190
-#EXTINF:0 type="stream" channelId="2406" name="CANAL+ SPORT5" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/NSPORT.png", CANAL+ SPORT5
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3189
-#EXTINF:0 type="stream" channelId="225" group="SPORTOWE" logo="eurosport1hd.png", Eurosport HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3187
-#EXTINF:0 type="stream" channelId="933" group="SPORTOWE" logo="eurosport2hd.png", Eurosport 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3186
-#EXTINF:0 type="stream" channelId="2336" group="SPORTOWE" logo="tvpsporthd.png", TVP Sport HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3169
-#EXTINF:0 type="stream" channelId="3262" group="SPORTOWE" logo="polsatsporthd.png", Polsat Sport HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3185
-#EXTINF:0 type="stream" channelId="2376" group="SPORTOWE" logo="polsatsportextrahd.png", Polsat Sport Extra HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3195
-#EXTINF:0 type="stream" channelId="3197" group="SPORTOWE" logo="polsatsportfighthd.png", Polsat Sport Fight HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3194
-#EXTINF:0 type="stream" channelId="3263" group="SPORTOWE" logo="polsatsportnews.png", Polsat Sport News HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3168
-#EXTINF:0 type="stream" channelId="4394" name="POLSAT SPORT PREM. 1 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM1.png", POLSAT SPORT PREM. 1 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3183
-#EXTINF:0 type="stream" channelId="4395" name="POLSAT SPORT PREM. 2 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM2.png", POLSAT SPORT PREM. 2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3182
-#EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 3 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM3.png", POLSAT SPORT PREM. 3 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3181
-#EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 4 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM3.png", POLSAT SPORT PREM. 4 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3180
-#EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 5 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM5.png", POLSAT SPORT PREM. 5 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3179
-#EXTINF:0 type="stream" channelId="-1" name="POLSAT SPORT PREM. 6 HD" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATSPORTPREM6.png", POLSAT SPORT PREM. 6 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3178
-#EXTINF:0 type="stream" channelId="2390" group="SPORTOWE" logo="tvnturbohd.png", TVN Turbo HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3292
-#EXTINF:0 type="stream" channelId="3199" group="SPORTOWE" logo="fightklubhd.png", Fight Klub HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3171
-#EXTINF:0 type="stream" channelId="2808" group="SPORTOWE" logo="fightboxhd.png", Fightbox HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3172
-#EXTINF:0 type="stream" channelId="156" group="SPORTOWE" logo="extremesportshd.png", Extreme Sports HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3184
-#EXTINF:0 type="stream" channelId="1564" group="SPORTOWE" logo="sportklub.png", Sport Klub
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3188
-#EXTINF:0 type="stream" channelId="2419" group="SPORTOWE" logo="motowizjahd.png", Motowizja HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3283
-#EXTINF:0 type="stream" channelId="1389" group="SPORTOWE" logo="golfchannel.png", Golf Channel Polska
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3173
-#EXTINF:0 type="stream" channelId="-1" name="VIAPLAY" group="ZAPAS - PL| VIAPLAY" logo="http://logos.ottcst.net:8080/logos//POLSKA/VIAPLAY.png", VIAPLAY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/255202
-#EXTINF:0 type="stream" channelId="-1" name="PPV KSW FIGHTS |LIVE ON MATCHES|" group="SPORTOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/PPVKSWFIGHTS.png", |PL| PPV KSW FIGHTS |LIVE ON MATCHES|
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3170
-#EXTINF:0 type="stream" channelId="-1" name="PPV  |THE WAR 4|" group="SPORTOWE" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| PPV  |THE WAR 4|
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/436488
-#EXTINF:0 type="stream" channelId="-1" name="PPV 2" group="SPORTOWE", |PL| PPV 2
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/436531
-#EXTINF:0 type="stream" channelId="2426" group="ZAPAS - POPULARNONAUKOWE" logo="adventurehd.png", Adventure HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3291
-#EXTINF:0 type="stream" channelId="240" group="ZAPAS - POPULARNONAUKOWE" logo="animalplanethd.png", Animal Planet HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3219
-#EXTINF:0 type="stream" channelId="3192" group="ZAPAS - POPULARNONAUKOWE" logo="bbcearth.png", BBC Earth HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3213
-#EXTINF:0 type="stream" channelId="4374" group="ZAPAS - POPULARNONAUKOWE" logo="bbcfirst.png", BBC First HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3273
-#EXTINF:0 type="stream" channelId="-1" group="ZAPAS - POPULARNONAUKOWE" logo="canalplusdiscoveryhd.jpg", Canal+ Discovery HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3328
-#EXTINF:0 type="stream" channelId="341" group="ZAPAS - POPULARNONAUKOWE" logo="discoverychannelhd.png", Discovery Channel HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3209
-#EXTINF:0 type="stream" channelId="3189" group="ZAPAS - POPULARNONAUKOWE" logo="discoveryhistoria.png", Discovery Historia
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3207
-#EXTINF:0 type="stream" channelId="1189" name="CRIME AND INVESTIGATION HD" group="ZAPAS - POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos/PORTUGAL/CRIMEINVESTIGATION.png", CRIME AND INVESTIGATION HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3197
-#EXTINF:0 type="stream" channelId="1508" group="ZAPAS - POPULARNONAUKOWE" logo="discoverysciencehd-clivebesle.png", Discovery Science HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3210
-#EXTINF:0 type="stream" channelId="60" group="ZAPAS - POPULARNONAUKOWE" logo="discoveryturboxtrahd.png", Discovery Turbo Xtra HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3287
-#EXTINF:0 type="stream" channelId="2342" group="ZAPAS - POPULARNONAUKOWE" logo="fokustv.png", Fokus TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3285
-#EXTINF:0 type="stream" channelId="1456" group="ZAPAS - POPULARNONAUKOWE" logo="historyhd.png", History HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3216
-#EXTINF:0 type="stream" channelId="1202" group="ZAPAS - POPULARNONAUKOWE" logo="history2hd.png", H2 HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3212
-#EXTINF:0 type="stream" channelId="207" group="ZAPAS - POPULARNONAUKOWE" logo="nationalgeographichd.png", National Geographic Channel HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3198
-#EXTINF:0 type="stream" channelId="2255" group="ZAPAS - POPULARNONAUKOWE" logo="natgeopeoplehd.png", Nat Geo People HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3220
-#EXTINF:0 type="stream" channelId="206" group="ZAPAS - POPULARNONAUKOWE" logo="natgeowildhd.png", Nat Geo Wild HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3202
-#EXTINF:0 type="stream" channelId="3268" group="ZAPAS - POPULARNONAUKOWE" logo="polsatdoku.png", Polsat Doku HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3211
-#EXTINF:0 type="stream" channelId="3272" group="ZAPAS - POPULARNONAUKOWE" logo="polsatviasatexplorehd.png", Polsat Viasat Explore HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3203
-#EXTINF:0 type="stream" channelId="3271" group="ZAPAS - POPULARNONAUKOWE" logo="polsatviasathistoryhd.png", Polsat Viasat History HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3200
-#EXTINF:0 type="stream" channelId="3270" group="ZAPAS - POPULARNONAUKOWE" logo="polsatviasatnaturehd.png", Polsat Viasat Nature HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3199
-#EXTINF:0 type="stream" channelId="3191" group="ZAPAS - POPULARNONAUKOWE" logo="planeteplushd.png", Planete+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3218
-#EXTINF:0 type="stream" channelId="235" group="ZAPAS - POPULARNONAUKOWE" logo="travelchannelhd.png", Travel Channel HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3294
-#EXTINF:0 type="stream" channelId="2333" group="ZAPAS - POPULARNONAUKOWE" logo="tvphistoria.png", TVP Historia
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3214
-#EXTINF:0 type="stream" channelId="2334" group="ZAPAS - POPULARNONAUKOWE" logo="tvpkultura.png", TVP Kultura
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3295
-#EXTINF:0 type="stream" channelId="2415" group="ZAPAS - POPULARNONAUKOWE" logo="waterplanet.png", Water Planet
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3201
-#EXTINF:0 type="stream" channelId="171" group="ZAPAS - POPULARNONAUKOWE" logo="davincilearning.png", Da Vinci Learning
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3290
-#EXTINF:0 type="stream" channelId="3183" name="|PL| CANAL + DOKUMENT HD" group="ZAPAS - POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALDOKUMENT.png", CANAL + DOKUMENT HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/191578
-#EXTINF:0 type="stream" channelId="3269" name="CI POLSAT HD" group="ZAPAS - POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CIPOLSATHD.png", CI POLSAT HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3217
-#EXTINF:0 type="stream" channelId="3770" name="ID HD" group="ZAPAS - POPULARNONAUKOWE" logo="http://logos.ottcst.net:8080/logos//POLSKA/IDHD.png", ID HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3215
-#EXTINF:0 type="stream" channelId="4380" group="ZAPAS - LIFESTYLE" logo="activefamily.png", Active Family
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3276
-#EXTINF:0 type="stream" channelId="1145" group="ZAPAS - LIFESTYLE" logo="bbcZAPAS - LIFESTYLE.png", BBC ZAPAS - LIFESTYLE HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3274
-#EXTINF:0 type="stream" channelId="2400" group="ZAPAS - LIFESTYLE" logo="domoplushd.png", Domo+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3288
-#EXTINF:0 type="stream" channelId="1418" group="ZAPAS - LIFESTYLE" logo="hgtv.png", HGTV HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3236
-#EXTINF:0 type="stream" channelId="1188" group="ZAPAS - LIFESTYLE" logo="eentertainment.png", E! Entertainment
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3303
-#EXTINF:0 type="stream" channelId="1720" group="ZAPAS - LIFESTYLE" logo="foodnetworkhd.png", Food Network HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3289
-#EXTINF:0 type="stream" channelId="2398" group="ZAPAS - LIFESTYLE" logo="kuchniaplushd.png", Kuchnia+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/182407
-#EXTINF:0 type="stream" channelId="2398" name="KUCHNIA HD" group="ZAPAS - LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/CANALKUCHINIA.png", KUCHNIA HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3284
-#EXTINF:0 type="stream" channelId="3279" group="ZAPAS - LIFESTYLE" logo="discoverylife-lichoridas.png", Discovery Life HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3208
-#EXTINF:0 type="stream" channelId="1040" group="ZAPAS - LIFESTYLE" logo="tlchd.png", TLC HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3298
-#EXTINF:0 type="stream" channelId="3264" group="ZAPAS - LIFESTYLE" logo="polsatcafehd.png", Polsat Cafe HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3245
-#EXTINF:0 type="stream" channelId="3266" group="ZAPAS - LIFESTYLE" logo="polsatplayhd.png", Polsat Play HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3244
-#EXTINF:0 type="stream" channelId="4382" name="POLSAT RODZINA" group="ZAPAS - LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATRODZINA.png", POLSAT RODZINA
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3336
-#EXTINF:0 type="stream" channelId="2388" group="ZAPAS - LIFESTYLE" logo="tvnstylehd.png", TVN Style HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3238
-#EXTINF:0 type="stream" channelId="4383" name="STUDIOMED TV HD" group="ZAPAS - LIFESTYLE" logo="http://logos.ottcst.net:8080/logos//POLSKA/STUDIOMEDTVHD.png", STUDIOMED TV HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3157
-#EXTINF:0 type="stream" channelId="601" group="ZAPAS - MUZYCZNE" logo="4funtv.png", 4Fun TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3226
-#EXTINF:0 type="stream" channelId="3200" group="ZAPAS - MUZYCZNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/4FUNGOLDHITS.png", 4Fun Fit and Dance
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3204
-#EXTINF:0 type="stream" channelId="4376" group="ZAPAS - MUZYCZNE" logo="4funhits.png", 4FUN HITS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3205
-#EXTINF:0 type="stream" channelId="2368" group="ZAPAS - MUZYCZNE" logo="discopolomusic.png", Disco Polo Music
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3206
-#EXTINF:0 type="stream" channelId="1241" group="ZAPAS - MUZYCZNE" logo="eskatv.png", Eska TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3159
-#EXTINF:0 type="stream" channelId="4391" group="ZAPAS - MUZYCZNE" logo="eskatvextra.png", Eska TV Extra
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3222
-#EXTINF:0 type="stream" channelId="1242" group="ZAPAS - MUZYCZNE" logo="eskatvrock.png", Eska ROCK TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3223
-#EXTINF:0 type="stream" channelId="2430" group="ZAPAS - MUZYCZNE" logo="kinopolskamuzyka.png", Kino Polska Muzyka
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3251
-#EXTINF:0 type="stream" channelId="1106" group="ZAPAS - MUZYCZNE" logo="mtv.png", MTV Polska
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3250
-#EXTINF:0 type="stream" channelId="237" group="ZAPAS - MUZYCZNE" logo="mtvlivehd.png", MTV Live HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3255
-#EXTINF:0 type="stream" channelId="290" group="MUZYCZNE", MTV ROCKS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3252
-#EXTINF:0 type="stream" channelId="2715" name="MTV MUSIC" group="ZAPAS - MUZYCZNE" logo="http://logos.ottcst.net:8080/logos//POLSKA/MTVMUSIC.png", MTV MUSIC
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3249
-#EXTINF:0 type="stream" channelId="4384" group="ZAPAS - MUZYCZNE" logo="nutatv.png", NUTA TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3282
-#EXTINF:0 type="stream" channelId="2343" group="ZAPAS - MUZYCZNE" logo="polotv.png", Polo TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3243
-#EXTINF:0 type="stream" channelId="4366" group="ZAPAS - MUZYCZNE" logo="polsatmusic.png", Polsat Music HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3225
-#EXTINF:0 type="stream" channelId="3289" group="ZAPAS - MUZYCZNE" logo="powertv-lichoridas.png", POWER TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3281
-#EXTINF:0 type="stream" channelId="4377" group="ZAPAS - MUZYCZNE" logo="starstv.png", Stars TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3227
-#EXTINF:0 type="stream" channelId="3291" group="ZAPAS - MUZYCZNE" logo="totv.png", TO!TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3247
-#EXTINF:0 type="stream" channelId="1724" group="ZAPAS - MUZYCZNE" logo="traceurban.png", TRACE Urban
-http://83.144.121.50:8001/1:0:1:DB6:2D50:13E:820000:0:0:0
-#EXTINF:0 type="stream" channelId="151" group="ZAPAS - MUZYCZNE" logo="vh1.png", VH1
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3254
-#EXTINF:0 type="stream" channelId="4392" group="ZAPAS - MUZYCZNE" logo="voxmusictv.png", VOX Music TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3224
-#EXTINF:0 type="stream" channelId="473" group="ZAPAS - BAJKI" logo="babytv.png", Baby TV
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3270
-#EXTINF:0 type="stream" channelId="321" group="ZAPAS - BAJKI" logo="boomerang.png", Boomerang
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3268
-#EXTINF:0 type="stream" channelId="1147" group="ZAPAS - BAJKI" logo="cbeebies.png", BBC CBeebies
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3258
-#EXTINF:0 type="stream" channelId="2719" group="ZAPAS - BAJKI" logo="cartoonnetworkhd.png", Cartoon Network HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3267
-#EXTINF:0 type="stream" channelId="2720" group="ZAPAS - BAJKI" logo="disneychannelhd.png", Disney Channel HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3264
-#EXTINF:0 type="stream" channelId="1197" group="ZAPAS - BAJKI" logo="disneyjunior.png", Disney Junior
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3265
-#EXTINF:0 type="stream" channelId="1198" group="ZAPAS - BAJKI" logo="disneyxd.png", Disney XD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3266
-#EXTINF:0 type="stream" channelId="3261" group="ZAPAS - BAJKI" logo="jimjampolsat.png", JimJam Polsat
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3269
-#EXTINF:0 type="stream" channelId="2402" group="ZAPAS - BAJKI" logo="miniminiplushd.png", MiniMini+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3259
-#EXTINF:0 type="stream" channelId="334" group="ZAPAS - BAJKI" logo="nickelodeonhd.png", Nickelodeon HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3262
-#EXTINF:0 type="stream" channelId="322" group="ZAPAS - BAJKI" logo="nickjr.png", Nick Jr
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3263
-#EXTINF:0 type="stream" channelId="2712" group="ZAPAS - BAJKI" logo="nicktoonshd.png", Nicktoons HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3261
-#EXTINF:0 type="stream" channelId="2404" group="ZAPAS - BAJKI" logo="teletoonplushd-lichoridas.png", Teletoon+ HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3260
-#EXTINF:0 type="stream" channelId="2332" group="ZAPAS - BAJKI" logo="tvpabc.png", TVP ABC
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3246
-#EXTINF:0 type="stream" channelId="4381" name="POLSAT GAMES" group="ZAPAS - BAJKI" logo="http://logos.ottcst.net:8080/logos//POLSKA/POLSATGAMES.png", POLSAT GAMES
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3257
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 1" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 1
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418165
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 2" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 2
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418164
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 3" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 3
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418163
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 4" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 4
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418162
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 5" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 5
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418161
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 6" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 6
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418160
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 7" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 7
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418159
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 8" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 8
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418158
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 9" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 9
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418157
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 10" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 10
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418156
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 11" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 11
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418155
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 12" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 12
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418154
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 13" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 13
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418153
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 14" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 14
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418152
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 15" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 15
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418151
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 16" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 16
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418150
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 17" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 17
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418149
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 18" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 18
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418148
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 19" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 19
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418147
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY 20" group="ZAPAS - PL| VIAPLAY" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |ZAPAS - PL| VIAPLAY 20
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/418146
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 1" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 1
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459567
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 2" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 2
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459566
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 3" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 3
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459565
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 4" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 4
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459564
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 5" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 5
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459563
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 6" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 6
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459562
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 7" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 7
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459561
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 8" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 8
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459560
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 9" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 9
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459559
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 10" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 10
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459558
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 11" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 11
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459557
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 12" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 12
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459556
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 13" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 13
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459555
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 14" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 14
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459554
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 15" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 15
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459553
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 16" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 16
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459552
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 17" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 17
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459551
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 18" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 18
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459550
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 19" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 19
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459549
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 20" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 20
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459548
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 21" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 21
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459547
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 22" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 22
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459546
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 23" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 23
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459545
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 24" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 24
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459544
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 25" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 25
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459543
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 26" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 26
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459542
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 27" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 27
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459541
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 28" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 28
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459540
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 29" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 29
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459539
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 30" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 30
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459538
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 31" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 31
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459537
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 32" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 32
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459536
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 33" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 33
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459535
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 34" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 34
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459534
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 35" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 35
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459533
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 36" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 36
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459532
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 37" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 37
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459531
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 38" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 38
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459530
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 39" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 39
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459529
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 40" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 40
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459528
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 41" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 41
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459527
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 42" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 42
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459526
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 43" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 43
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459525
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 44" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 44
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459524
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 45" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 45
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459523
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 46" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 46
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459522
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 47" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 47
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459521
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 48" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 48
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459520
-#EXTINF:0 type="stream" channelId="-1" name="|ZAPAS - PL| VIAPLAY XTRA 49" group="ZAPAS - PL| VIAPLAY", |ZAPAS - PL| VIAPLAY XTRA 49
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/459519
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC HIT" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC HIT
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/191168
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC MIX" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC MIX
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/224429
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC RAP" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC RAP
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298941
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CHILL" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC CHILL
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298940
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC REMIX" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC REMIX
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/302136
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CLASSIC" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC CLASSIC
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/306449
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC AFRO" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC AFRO
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/318485
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC POPULAR" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC POPULAR
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298939
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC BILLBOARD" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC BILLBOARD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298938
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC HOUSE" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC HOUSE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298937
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC DANCE" group="ZAPAS - VOD" logo="http://103.161.34.240:81/logos/BACKGROUND/LIVEEVENTPROMO.mp4", |PL| POP MUSIC DANCE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298936
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP THE VOICE HD" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP THE VOICE HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/191583
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DOCU RELAXATION" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DOCU RELAXATION
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/229319
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BLIPPI" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BLIPPI
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/432335
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPIEWAJACE BRZDACE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPIEWAJACE BRZDACE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/435521
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BING" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BING
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/433248
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PAW PATROL" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PAW PATROL
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/444149
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SHAUN THE SHEEP" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SHAUN THE SHEEP
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/289571
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS MACHA AND BEAR" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS MACHA AND BEAR
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/196614
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS TOM AND JERRY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS TOM AND JERRY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/226534
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS ZIG AND SHARKO" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS ZIG AND SHARKO
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/229720
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SWINKA PEPPA" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SWINKA PEPPA
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/198977
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS RABBIDS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS RABBIDS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/230879
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS OGGY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS OGGY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/230860
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BOOBA" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BOOBA
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/229525
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PJ MASKS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PJ MASKS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/200210
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPONGEBOB" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPONGEBOB
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/305976
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS GRAVITY FALLS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS GRAVITY FALLS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/196588
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PARADISE PD" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PARADISE PD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/195966
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS DRAGON BALL" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS DRAGON BALL
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/195921
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP COOKING WORLD HD" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP COOKING WORLD HD
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/289702
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP REALITY SHOW" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP REALITY SHOW
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/194372
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP NETFLIX SERIES" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP NETFLIX SERIES
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/192126
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP JUST FOR LAUGHS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP JUST FOR LAUGHS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/232835
-#EXTINF:0 type="stream" channelId="-1" name="|PL| ZAPAS - VOD 205" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/ZAPAS - VOD205.png", |PL| ZAPAS - VOD 205
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3317
-#EXTINF:0 type="stream" channelId="-1" name="|PL| ZAPAS - VOD 206" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/ZAPAS - VOD206.png", |PL| ZAPAS - VOD 206
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3316
-#EXTINF:0 type="stream" channelId="-1" name="|PL| ZAPAS - VOD 207" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/ZAPAS - VOD207.png", |PL| ZAPAS - VOD 207
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3315
-#EXTINF:0 type="stream" channelId="-1" name="|PL| ZAPAS - VOD 208" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos//POLSKA/ZAPAS - VOD208.png", |PL| ZAPAS - VOD 208
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/3314
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NETFLIX" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NETFLIX
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/190667
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DISNEY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DISNEY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/446812
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WARNER BROS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WARNER BROS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/436357
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES AMAZON PRIME" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES AMAZON PRIME
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/430426
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ACTION" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ACTION
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298933
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ROMANCE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ROMANCE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298935
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DRAMA" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DRAMA
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298942
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HORROR" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HORROR
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298943
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THRILLER" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THRILLER
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301678
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FANTASY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FANTASY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301996
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MARVEL" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MARVEL
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/303511
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CRIME" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CRIME
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/299038
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FAMILY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FAMILY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/299375
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WAR" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WAR
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/300015
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WESTERN" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WESTERN
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/299298
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HISTORY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HISTORY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/299006
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CHRISTMAS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CHRISTMAS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/284883
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MUSIC" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MUSIC
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/299005
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ANIMATED" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ANIMATED
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/190705
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DOCUMENTARY" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DOCUMENTARY
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/298934
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SYLVESTER STALLONE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SYLVESTER STALLONE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301712
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JASON STATHAM" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JASON STATHAM
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301307
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DWAYNE JOHNSON" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DWAYNE JOHNSON
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/302384
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES TOM CRUISE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES TOM CRUISE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301314
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NICOLAS CAGE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NICOLAS CAGE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301333
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE LORD OF THE RINGS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE LORD OF THE RINGS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/428838
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SAW" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SAW
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/428837
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TERMINATOR" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TERMINATOR
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/438726
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES STAR WARS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES STAR WARS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/438725
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES RESIDENT EVIL" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES RESIDENT EVIL
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/438724
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MISSION IMPOSSIBLE" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MISSION IMPOSSIBLE
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/438723
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JAKCY CHAN" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JAKCY CHAN
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/438722
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TWILIGHT SAGA ZMIERZCH" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TWILIGHT SAGA ZMIERZCH
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/428836
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE HOBBIT" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE HOBBIT
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/428835
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE FAST AND THE FURIOUS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE FAST AND THE FURIOUS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/428834
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HARRY POTTER" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HARRY POTTER
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/431300
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DICAPRIO" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DICAPRIO
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/301593
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIAPLAY TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIAPLAY TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442879
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP TNT TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP TNT TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442878
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP POLSKIE TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP POLSKIE TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442877
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HULU TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HULU TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442876
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FXX TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FXX TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442875
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FREEFORM TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FREEFORM TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442874
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FOX SHOWCASE TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FOX SHOWCASE TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442873
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DC TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DC TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442872
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP AMAZON PRIME TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP AMAZON PRIME TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442871
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP APPLE TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP APPLE TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442870
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DISNEY TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DISNEY TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442869
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HBO TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HBO TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442868
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MARVEL TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MARVEL TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442867
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP NETFLIX TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP NETFLIX TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442866
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP SHOWTIME TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP SHOWTIME TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442865
-#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIDEOLAND TV SHOWS" group="ZAPAS - VOD" logo="http://logos.ottcst.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIDEOLAND TV SHOWS
-http://premiumott.xyz:80/NZTGUZYZ6W/EYFYYCJVE8/442864
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/3257
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP UFC FIGHT NIGHT" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP UFC FIGHT NIGHT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/472869
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 1" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 1
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496041
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 2" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 2
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496040
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 3" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 3
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496039
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 4" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 4
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496038
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 5" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 5
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496037
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 6" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 6
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496036
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 7" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 7
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496035
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 8" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 8
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496034
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 9" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 9
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496033
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 10" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 10
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496032
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 11" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 11
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496031
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 12" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 12
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496030
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 13" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 13
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496029
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 14" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 14
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496028
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 15" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 15
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496027
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 16" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 16
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496026
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 17" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 17
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496025
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 18" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 18
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496024
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 19" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 19
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496023
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 20" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 20
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496022
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 21" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 21
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496021
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 22" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 22
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496020
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY XTRA POLSKA 23" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY XTRA POLSKA 23
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496019
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 24 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 24 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496018
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 25 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 25 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496017
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 26 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 26 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496016
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 27 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 27 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496015
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 28 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 28 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496014
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 29 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 29 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496013
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 30 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 30 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496012
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 31 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 31 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496011
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 32 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 32 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496010
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 33 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 33 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496009
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 34 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 34 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496008
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 35 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 35 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496007
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 36 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 36 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496006
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 37 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 37 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496005
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 38 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 38 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496004
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 39 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 39 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496003
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 40 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 40 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496002
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 41 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 41 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496001
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 42 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 42 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/496000
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 43 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 43 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/495999
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 44 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 44 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/495998
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 45 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 45 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/495997
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIAPLAY EXTRA EVENTS 46 WORLD" group="PL| VIAPLAY" logo="http://103.161.34.240:81/logos/POLSKA/ViaplayXtra.png", |PL| VIAPLAY EXTRA EVENTS 46 WORLD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/495996
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PLAYLIVE PPV PLATFORM EVENT" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| PLAYLIVE PPV PLATFORM EVENT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/490070
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PPV HIGH LEAGUE" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| PPV HIGH LEAGUE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/490069
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PPV GROMDA" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| PPV GROMDA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/490068
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POLSAT GO PPV" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| POLSAT GO PPV
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464133
+#EXTINF:0 type="stream" channelId="-1" name="|PL| FAME MMA" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/FameMMA.png", |PL| FAME MMA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464132
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PRIME MMA" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/PrimeMMA.png", |PL| PRIME MMA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464131
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PLAYLIVE PPV PLATFORM" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| PLAYLIVE PPV PLATFORM
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464130
+#EXTINF:0 type="stream" channelId="-1" name="|PL| PPV STREAM" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| PPV STREAM
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464129
+#EXTINF:0 type="stream" channelId="-1" name="|PL| VIPMEDIA PPV" group="PL| EVENTS VIP" logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png", |PL| VIPMEDIA PPV
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464128
+#EXTINF:0 type="stream" channelId="-1" name="|PL| UFC FIGHT NIGHT" group="PL| EVENTS VIP" logo="http://178.211.143.40:81/logos/USASPORT/UFCCHANNEL.png", |PL| UFC FIGHT NIGHT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464127
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 1" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 1
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464126
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 2" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 2
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464125
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 3" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 3
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464124
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 4" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 4
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464123
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 5" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 5
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464122
+#EXTINF:0 type="stream" channelId="-1" name="|PL| EUROSPORT EXTRA PLAYER 6" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/EurosportExtraPLAYER.png", |PL| EUROSPORT EXTRA PLAYER 6
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464121
+#EXTINF:0 type="stream" channelId="-1" name="|PL| CANAL+ ONLINE EVENT 1" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/CanalPLUSOnlineEVENT.png", |PL| CANAL+ ONLINE EVENT 1
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464120
+#EXTINF:0 type="stream" channelId="-1" name="|PL| CANAL+ ONLINE EVENT 2" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/CanalPLUSOnlineEVENT.png", |PL| CANAL+ ONLINE EVENT 2
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464119
+#EXTINF:0 type="stream" channelId="-1" name="|PL| CANAL+ ONLINE EVENT 3" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/CanalPLUSOnlineEVENT.png", |PL| CANAL+ ONLINE EVENT 3
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464118
+#EXTINF:0 type="stream" channelId="-1" name="|PL| CANAL+ ONLINE EVENT 4" group="PL| EVENTS VIP" logo="http://103.161.34.240:81/logos/POLSKA/CanalPLUSOnlineEVENT.png", |PL| CANAL+ ONLINE EVENT 4
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/464117
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP UFC FIGHT NIGHT" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP UFC FIGHT NIGHT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/472869
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES 4K" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES 4K
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/465062
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES AMAZON PRIME" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES AMAZON PRIME
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/430426
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NEW YEAR" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NEW YEAR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/495851
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DISNEY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DISNEY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/446812
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NETFLIX" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NETFLIX
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/477062
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WARNER BROS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WARNER BROS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/436357
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ACTION" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ACTION
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298933
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ANIMATED" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ANIMATED
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/190705
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CHRISTMAS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CHRISTMAS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/284883
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES CRIME" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES CRIME
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/299038
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DRAMA" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DRAMA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298942
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DOCUMENTARY" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DOCUMENTARY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/502778
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THRILLER" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THRILLER
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/502777
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FAMILY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FAMILY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/299375
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES FANTASY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES FANTASY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301996
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HISTORY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HISTORY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/299006
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HORROR" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HORROR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298943
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MARVEL" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MARVEL
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/303511
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MUSIC" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MUSIC
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/299005
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES ROMANCE" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES ROMANCE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298935
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WAR" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WAR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/300015
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES WESTERN" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES WESTERN
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/299298
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DICAPRIO" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DICAPRIO
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301593
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES DWAYNE JOHNSON" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES DWAYNE JOHNSON
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/302384
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JACKIE CHAN" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JACKIE CHAN
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/438722
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES JASON STATHAM" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES JASON STATHAM
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301307
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES NICOLAS CAGE" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES NICOLAS CAGE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301333
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SYLVESTER STALLONE" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SYLVESTER STALLONE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301712
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES TOM CRUISE" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES TOM CRUISE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/301314
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES HARRY POTTER" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES HARRY POTTER
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/431300
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES MISSION IMPOSSIBLE" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES MISSION IMPOSSIBLE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/483399
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TERMINATOR" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TERMINATOR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/503749
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE TWILIGHT SAGA" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE TWILIGHT SAGA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/503748
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES SAW" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES SAW
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/503747
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES RESIDENT EVIL" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES RESIDENT EVIL
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/438724
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES STAR WARS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES STAR WARS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/438725
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE FAST AND THE FURIOUS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE FAST AND THE FURIOUS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/428834
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE HOBBIT" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE HOBBIT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/428835
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES THE LORD OF THE RINGS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES THE LORD OF THE RINGS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/428838
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MOVIES TRANSFORMERS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MOVIES TRANSFORMERS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/503757
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP JUST FOR LAUGHS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP JUST FOR LAUGHS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/232835
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP AMAZON PRIME TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP AMAZON PRIME TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473735
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP APPLE TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP APPLE TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/481739
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DC TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DC TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473736
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DISNEY TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP DISNEY TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473737
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FOX SHOWCASE TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FOX SHOWCASE TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473738
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FREEFORM TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FREEFORM TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473739
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP FXX TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP FXX TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/502710
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HBO TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HBO TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/483327
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP HULU TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP HULU TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/502658
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MARVEL TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MARVEL TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473743
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP NETFLIX TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP NETFLIX TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473744
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP POLSKIE TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP POLSKIE TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473745
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP REALITY SHOW" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP REALITY SHOW
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/194372
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP SHOWTIME TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP SHOWTIME TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473746
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP TNT TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP TNT TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473747
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIAPLAY TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIAPLAY TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473748
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP VIDEOLAND TV SHOWS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP VIDEOLAND TV SHOWS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/473749
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MR BEAN" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MR BEAN
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/484457
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DOCUMENTARY HD" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP DOCUMENTARY HD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/191578
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP DOCU RELAXATION" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP DOCU RELAXATION
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/229319
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC BILLBOARD" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC BILLBOARD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298938
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CHILL" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC CHILL
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298940
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC DANCE" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC DANCE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298936
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC HIT" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC HIT
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/191168
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC MIX" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC MIX
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/224429
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC POPULAR" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC POPULAR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/298939
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC REMIX" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC REMIX
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/302136
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP THE VOICE HD" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP THE VOICE HD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/191583
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BING" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BING
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/433248
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BLIPPI" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BLIPPI
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/432335
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS BOOBA" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS BOOBA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/229525
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS DRAGON BALL" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS DRAGON BALL
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/195921
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS GRAVITY FALLS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS GRAVITY FALLS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/196588
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS MACHA AND BEAR" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS MACHA AND BEAR
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/196614
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS OGGY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS OGGY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/230860
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PARADISE PD" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PARADISE PD
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/195966
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PAW PATROL" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PAW PATROL
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/444149
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS PJ MASKS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS PJ MASKS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/200210
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS RABBIDS" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS RABBIDS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/230879
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SHAUN THE SHEEP" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SHAUN THE SHEEP
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/289571
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPIEWAJACE BRZDACE" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPIEWAJACE BRZDACE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/435521
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SPONGEBOB" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SPONGEBOB
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/305976
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS SWINKA PEPPA" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS SWINKA PEPPA
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/198977
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS TOM AND JERRY" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS TOM AND JERRY
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/226534
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP KIDS ZIG AND SHARKO" group="VOD" logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png", |PL| POP KIDS ZIG AND SHARKO
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/229720
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC AFRO" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC AFRO
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/498679
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC CLASSIC" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC CLASSIC
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499025
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC DEEP HOUSE" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC DEEP HOUSE
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499024
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC DJ" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC DJ
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499021
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC KIDS" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC KIDS
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499020
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC POP" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC POP
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/498162
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC RAP" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC RAP
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499017
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC SLOWED" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC SLOWED
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499019
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC SOUL DEEP" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC SOUL DEEP
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499023
+#EXTINF:0 type="stream" channelId="-1" name="|PL| POP MUSIC TRAP NATION" group="VOD" logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png", |PL| POP MUSIC TRAP NATION
+http://line.premiumott.xyz:80/GRQ8UFVPIS/OSEGJIVLUC/499018
